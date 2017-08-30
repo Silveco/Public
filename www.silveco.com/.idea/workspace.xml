@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/DVD-knjigica.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/DVD-ovitek-14mm.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/DVD-ovitek-7mm.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/cd-a-text.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/cd-a.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/cd-extra.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/cd-label-offset.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/cd-label-sito.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/cd-rom.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/dvd-label-offset.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/dvd-label-sito.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/dvd-rom.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/dvd-video.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-2CD-desno (1).pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-2CD-desno.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-2CD-levodesno.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-2CD-na sredi,desno+lepl.zepek.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-DVD-box.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-brez-traya.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-mali+lepl-zep.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-mali-zareza.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-mali.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-nadesni+leplzep-A.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-nadesni-CD.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-nasredi+leplzep-C.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-nasredi.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-trojni-CD.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-zepka-s-strani-brez-traya-6-str.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/ekopak-zepki-s-strani-brez traya.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/inlay.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/kartonasti zepek-print.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/kartonasti-zepek-8cm-print.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/kartonasti-zepek-print.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/kartonasti-zepek-zavihk.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/knjigica.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/listek-12x12-slim.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/listek-12x12.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/sazas.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/slipcaseCD.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/zepek-za-3cd.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/zlozenka12.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dl-files/zlozenka6.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-A-plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-BOX-SLIM-inst.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-BOX-SLIM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-BOX-inst.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-BOX.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-DVD-SLIM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-DVD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-EKOPAK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-packs/CD-web-ZEPEK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/CD-rom.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/LOGOTIP_SILVECO_2017_black_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Logotip-Omninet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Logotip-Studio_Orca-Old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Logotip-Studio_Orca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Logotip-Studo_Racman-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Logotip-Studo_Racman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Silvecologo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/SilvecologoOLD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Slika-kontakt-web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/a17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/big-format-printing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cd-a-text.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cd-a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/corp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/digital-printing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/dynamic-websites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/eco-printing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/CD-web-EKOPAK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_2CD_leplzep_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_2CD_leplzep_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_2CD_levo_desno_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_2CD_levo_desno_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_2CD_sredi_desno_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_2CD_sredi_desno_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_3CD_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_3CD_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_3_knjigica-I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_3_knjigica.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_6str_zepka_s_strani_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_6str_zepka_s_strani_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_brez_traya_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_brez_traya_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_brez_traya_III.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_desno-I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_desno-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_desno_knjiga-I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_desno_knjiga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_dvd_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_dvd_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_mali-lplzep-I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_mali-lplzep-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_na_sredi-I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_na_sredi-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_na_sredi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_zepka_s_strani_I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_zepka_s_strani_II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ekopak/ekopak_zepka_s_strani_III.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/graphic-design-silveco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/graphic-design.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/Audio-txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/Data-CD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/cdrom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/dvd-data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/dvd-video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoCD/sazas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_orbot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/offset-banner-BCKP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/offset-banner-I-BCKP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/offset-banner-I.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/offset-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/offset-printing.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/omninet-banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/pdf-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personalizacija.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/personalization.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/prestashop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/racman-logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/replikacija-cd&amp;dvd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sazas.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/server-I.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/server-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/server-III.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/server-IIII.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/silvecoeconoga2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sito-crte-crke.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/static-websites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/t01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/vizitka.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zepki/2-zep-za-3CD-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zepki/2-zep-za-3CD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zepki/3-zep-za-3CD-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zepki/3-zep-za-3CD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zepki/zep-za-3CD-II.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/zepki/zep-za-3CD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about-us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/googlecaa29b30ddad0976.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/si.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jssor.slider-22.2.16.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jssor.slider-22.2.16.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jssor.slider-22.2.16.mini.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/navodila-za-tisk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/omninet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/2CD-LD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/2CD-desna-lep.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/2CD-desna.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/2zareza.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/2zepka.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/2zepka6str.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/3CD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/CD-3-knjigica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/CD-3-sredina.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/CD-mali-knjigica-lep.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/CD-mali-knjigica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/CD-mali.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/CD-sredina.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/ekopak/DVD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/print-menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/why-silveco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/zepki/zepek-3CD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/zepki/zepek-zavihek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parts/zepki/zepek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reklamacije.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/studio-orca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-I.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tiskarna.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="291" />
+    <option name="y" value="100" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="" />
+      <created>1504095690068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504095690068</updated>
+      <workItem from="1504095692397" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="901000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="291" y="100" width="1400" height="1000" extended-state="1" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3402985" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25820896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
