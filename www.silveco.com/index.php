@@ -13,11 +13,6 @@ $pgAuthor="Silveco Web Design Studio"
 <?php include 'parts/menu.php';?>
 
 
-
-
-
-
-
 <!-- ----------------------- START PAGE HTML HERE ----------------------- -->
 
 
