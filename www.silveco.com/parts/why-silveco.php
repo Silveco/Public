@@ -60,7 +60,7 @@
     </div>
     <div class="container">
         <p class="lead">
-            Glavni cilji podjetja SILVECO so zagotavljanje kvalitete izdelkov in storitev, hitra odzivnost, nizke cene in dostopnost našim kupcem. V naši ponudbi so katalogi, brošure, knjige, navodila za uporabo, letaki, vstopnice, plakati, transparenti, oglasne table, vizitke, poslovni obrazci, revije, zloženke, boni, dnevniki, dopisi, kuverte, nalepke iz več materialov, mape, rokovniki, ovitki za CD-je, koledarji, notesniki, označevalne table, panoji, zemljevidi, kaširanje različnih materialov (kapa, forex, dibond, valoviti karton itn.), papirne vrečke, tisk na ceradno platno, polepitev vozil, in še bi lahko naštevali.
+            Glavni cilji podjetja SILVECO so zagotavljanje kvalitete izdelkov in storitev, hitra odzivnost, nizke cene in dostopnost našim kupcem. V naši ponudbi so katalogi, brošure, knjige, navodila za uporabo, letaki, vstopnice, plakati, transparenti, oglasne table, vizitke, poslovni obrazci, revije, zloženke, boni, dnevniki, dopisi, kuverte, nalepke iz več materialov, mape, rokovniki, ovitki za CD-je, koledarji, notesniki, označevalne table, panoji, zemljevidi, kaširanje različnih materialov (kapa, forex, dibond, valoviti karton itn.), papirne vrečke, tisk na ceradno platno, polepitev vozil, in še bi lahko naštevali. Poleg tega izdelujemo tudi CD in DVD plošče z replikacijo ter vse pripadajoče embalaže, kot so ovitki, ekopak, knjižice.
         </p>
     </div>
 

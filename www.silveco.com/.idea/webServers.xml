@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2a1e6286-bf75-4bb7-971e-3e9802f35c2a" name="dev.omninet.si" url="http://dev.omninet.si">
+        <fileTransfer host="host20.registrar-servers.com" port="21" rootFolder="/public_html/development">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
