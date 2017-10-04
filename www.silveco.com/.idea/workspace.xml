@@ -5,46 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/about-us.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/cd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/navodila-za-tisk.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/omninet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/2CD-LD.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/2CD-desna-lep.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/2CD-desna.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/2zareza.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/2zepka.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/2zepka6str.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/3CD.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/CD-3-knjigica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/CD-3-sredina.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica-lep.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/CD-mali.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/CD-sredina.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/ekopak/DVD.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/links.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/print-menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/why-silveco.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/zepki/zepek-zavihek.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/parts/zepki/zepek.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/reklamacije.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/studio-orca.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/tiskarna.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/akcije/september2017.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/menu.php" afterPath="$PROJECT_DIR$/parts/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/about-us.php" afterPath="$PROJECT_DIR$/EN/about-us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/contact.php" afterPath="$PROJECT_DIR$/EN/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/parts/footer.php" afterPath="$PROJECT_DIR$/EN/parts/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/footer.php" afterPath="$PROJECT_DIR$/parts/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/why-silveco.php" afterPath="$PROJECT_DIR$/parts/why-silveco.php" />
     </list>
+    <ignored path="../app.silveco.si/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,61 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="september2017.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/akcije/september2017.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parts/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="why-silveco.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parts/why-silveco.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cd.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/cd.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="497" column="122" lean-forward="false" selection-start-line="497" selection-start-column="122" selection-end-line="497" selection-end-column="122" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/global.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="1153" column="18" lean-forward="false" selection-start-line="1153" selection-start-column="18" selection-end-line="1153" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reklamacije.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/reklamacije.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navodila-za-tisk.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/navodila-za-tisk.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="63" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="63" />
+            <state relative-caret-position="221">
+              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -117,18 +35,8 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EN/parts/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="why-silveco.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/parts/why-silveco.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="762" lean-forward="false" selection-start-line="62" selection-start-column="762" selection-end-line="62" selection-end-column="762" />
+            <state relative-caret-position="153">
+              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -137,18 +45,38 @@
       <file leaf-file-name="about-us.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EN/about-us.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2023">
-              <caret line="119" column="14" lean-forward="false" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+            <state relative-caret-position="391">
+              <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/parts/menu.php">
+      <file leaf-file-name="why-silveco.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parts/why-silveco.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
+            <state relative-caret-position="493">
+              <caret line="62" column="749" lean-forward="false" selection-start-line="62" selection-start-column="749" selection-end-line="62" selection-end-column="749" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="why-silveco.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/parts/why-silveco.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="63" column="7" lean-forward="true" selection-start-line="62" selection-start-column="11" selection-end-line="63" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="29" column="120" lean-forward="false" selection-start-line="29" selection-start-column="120" selection-end-line="29" selection-end-column="120" />
               <folding />
             </state>
           </provider>
@@ -167,15 +95,11 @@
         <option value="$PROJECT_DIR$/EN/index.php" />
         <option value="$PROJECT_DIR$/EN/tiskarna.php" />
         <option value="$PROJECT_DIR$/EN/studio-orca.php" />
-        <option value="$PROJECT_DIR$/EN/contact.php" />
         <option value="$PROJECT_DIR$/EN/omninet.php" />
         <option value="$PROJECT_DIR$/EN/reklamacije.php" />
         <option value="$PROJECT_DIR$/EN/navodila-za-tisk.php" />
-        <option value="$PROJECT_DIR$/EN/parts/footer.php" />
-        <option value="$PROJECT_DIR$/EN/about-us.php" />
         <option value="$PROJECT_DIR$/EN/parts/menu.php" />
         <option value="$PROJECT_DIR$/akcije/september2017.php" />
-        <option value="$PROJECT_DIR$/parts/why-silveco.php" />
         <option value="$PROJECT_DIR$/EN/parts/why-silveco.php" />
         <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-mali.php" />
         <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica.php" />
@@ -196,6 +120,11 @@
         <option value="$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php" />
         <option value="$PROJECT_DIR$/EN/cd.php" />
         <option value="$PROJECT_DIR$/css/global.css" />
+        <option value="$PROJECT_DIR$/EN/parts/footer.php" />
+        <option value="$PROJECT_DIR$/EN/contact.php" />
+        <option value="$PROJECT_DIR$/EN/about-us.php" />
+        <option value="$PROJECT_DIR$/parts/why-silveco.php" />
+        <option value="$PROJECT_DIR$/parts/footer.php" />
       </list>
     </option>
   </component>
@@ -207,8 +136,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="103" />
-    <option name="y" value="56" />
+    <option name="x" value="266" />
+    <option name="y" value="96" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -230,8 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,32 +179,14 @@
             <path>
               <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EN" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EN" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EN" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ekopak" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="EN" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="zepki" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,7 +229,11 @@
       <workItem from="1505121725965" duration="899000" />
       <workItem from="1505459333746" duration="11062000" />
       <workItem from="1506925143873" duration="1776000" />
-      <workItem from="1506927521863" duration="1831000" />
+      <workItem from="1506927521863" duration="2036000" />
+      <workItem from="1506929898391" duration="49000" />
+      <workItem from="1506930219494" duration="264000" />
+      <workItem from="1506933245896" duration="239000" />
+      <workItem from="1507097844928" duration="1635000" />
     </task>
     <task id="LOCAL-00001" summary="test 234">
       <created>1504096744002</created>
@@ -350,11 +263,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504098717383</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final EN prevod">
+      <created>1506929689834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506929689834</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19109000" />
+    <option name="totallyTimeSpent" value="21501000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -367,19 +287,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1216" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13065049" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13506064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.49701494" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.50496143" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.4950386" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293247" sideWeight="0.4950386" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16373728" sideWeight="0.49062845" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293247" sideWeight="0.49701494" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.49701494" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -423,7 +344,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="test 234" />
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="final EN prevod" />
+    <option name="LAST_COMMIT_MESSAGE" value="final EN prevod" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -432,14 +354,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EN/parts/why-silveco.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="762" lean-forward="false" selection-start-line="62" selection-start-column="762" selection-end-line="62" selection-end-column="762" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EN/about-us.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
@@ -460,7 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="53" column="51" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-331">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,14 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="144" column="38" lean-forward="true" selection-start-line="121" selection-start-column="32" selection-end-line="144" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="44" column="44" lean-forward="false" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -638,26 +540,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/about-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2023">
-          <caret line="119" column="14" lean-forward="false" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EN/parts/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-mali.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="124" lean-forward="false" selection-start-line="45" selection-start-column="124" selection-end-line="45" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica-lep.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zepka.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="88" lean-forward="false" selection-start-line="68" selection-start-column="88" selection-end-line="68" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zareza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="88" lean-forward="false" selection-start-line="68" selection-start-column="88" selection-end-line="68" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/DVD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-sredina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="65" column="85" lean-forward="false" selection-start-line="65" selection-start-column="85" selection-end-line="65" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-3-knjigica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="88" lean-forward="false" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-3-sredina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2CD-desna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2CD-LD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="85" lean-forward="false" selection-start-line="64" selection-start-column="85" selection-end-line="64" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2CD-desna-lep.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/3CD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zepka6str.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek-zavihek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="54" column="88" lean-forward="false" selection-start-line="54" selection-start-column="88" selection-end-line="54" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="60" column="39" lean-forward="true" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="1153" column="18" lean-forward="false" selection-start-line="1153" selection-start-column="18" selection-end-line="1153" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/cd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="497" column="122" lean-forward="false" selection-start-line="497" selection-start-column="122" selection-end-line="497" selection-end-column="122" />
           <folding />
         </state>
       </provider>
@@ -670,170 +690,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="120" lean-forward="false" selection-start-line="29" selection-start-column="120" selection-end-line="29" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/about-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/EN/parts/why-silveco.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="762" lean-forward="false" selection-start-line="62" selection-start-column="762" selection-end-line="62" selection-end-column="762" />
+        <state relative-caret-position="507">
+          <caret line="63" column="7" lean-forward="true" selection-start-line="62" selection-start-column="11" selection-end-line="63" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parts/why-silveco.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="62" column="749" lean-forward="false" selection-start-line="62" selection-start-column="749" selection-end-line="62" selection-end-column="749" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-mali.php">
+    <entry file="file://$PROJECT_DIR$/parts/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="124" lean-forward="false" selection-start-line="45" selection-start-column="124" selection-end-line="45" selection-end-column="124" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica-lep.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zepka.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="88" lean-forward="false" selection-start-line="68" selection-start-column="88" selection-end-line="68" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zareza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="88" lean-forward="false" selection-start-line="68" selection-start-column="88" selection-end-line="68" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/DVD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-sredina.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="65" column="85" lean-forward="false" selection-start-line="65" selection-start-column="85" selection-end-line="65" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-3-knjigica.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="88" lean-forward="false" selection-start-line="55" selection-start-column="88" selection-end-line="55" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/CD-3-sredina.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2CD-desna.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2CD-LD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="85" lean-forward="false" selection-start-line="64" selection-start-column="85" selection-end-line="64" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2CD-desna-lep.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/3CD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="88" lean-forward="false" selection-start-line="64" selection-start-column="88" selection-end-line="64" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zepka6str.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek-zavihek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="54" column="88" lean-forward="false" selection-start-line="54" selection-start-column="88" selection-end-line="54" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="60" column="39" lean-forward="true" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/cd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="497" column="122" lean-forward="false" selection-start-line="497" selection-start-column="122" selection-end-line="497" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="1153" column="18" lean-forward="false" selection-start-line="1153" selection-start-column="18" selection-end-line="1153" selection-end-column="18" />
+        <state relative-caret-position="221">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>

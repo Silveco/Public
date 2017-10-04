@@ -45,8 +45,8 @@
 
 
                 </p>
-                </div>
-                <div class="col-sm-2 footer-notes">
+            </div>
+            <div class="col-sm-2 footer-notes">
                 <p>
                     <strong class="diferent">Spletne strani:</strong><br />
                     <strong>Silveco Omninet</strong><br />
@@ -57,10 +57,21 @@
 
 
                 </p>
-                </div>
             </div>
         </div>
+
+
+
     </div>
+
+
+
+
+
+
+
+
+
     <div class="footer-bottom">
         <div class="container">
             <div class="row">

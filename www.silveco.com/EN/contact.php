@@ -27,7 +27,7 @@ $pgAuthor="Silveco Web Design Studio"
                 <div class="col-sm-8">
                     <div class="main-page-content">
                         <p class="lead kontakt">
-                            We are available for any questions from Monday until Friday from <span class="green">7.30 do 16.00.</span>
+                            We are available for any questions from Monday until Friday from <span class="green">7.30 to 16.00.</span>
                         </p>
 
                         <p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11069.644888274268!2d14.487378!3d46.08278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2d3cfbbef297dd1f!2sSilveco+d.o.o.%2C+PE+Studio+Orca!5e0!3m2!1ssl!2ssi!4v1475243692108" width="100%" height="550" frameborder="0" style="border:0" allowfullscreen=""></iframe><br>

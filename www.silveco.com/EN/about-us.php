@@ -35,12 +35,12 @@ $pgAuthor="Silveco Web Design Studio"
                         <hr>
                         <h2>Our offer</h2>
                         <p class="lead">
-                            Our main goals are ensuring a high quality of our products and services, quick responsiveness, low prices and availability to our clients. Our offer consists of catalogues, brochures, books, instructions, flyers, tickets, posters, banners, advertisement signs, business cards, business forms, magazines, leaflets, coupons, journals, memos, envelopes, stickers from various materials, folders, schedule planners, CD-covers, calendars, notebooks, signs, advertising boards, maps, paper coating with different materials (kapa, Forex, Dibond, wavy cardboard …), paper bags, printing on tarpaulin, plastering of vehicles, and much more.
+                            Our main goals in the company SILVECO are ensuring high quality of our products and services, quick responsiveness, low prices and availability to our clients. Our offer consists of catalogues, brochures, books, instructions, flyers, tickets, posters, banners, advertisement signs, business cards, business forms, magazines, leaflets, coupons, journals, memos, envelopes, stickers from various materials, folders, schedule planners, calendars, notebooks, signs, advertising boards, maps, paper coating with different materials (kapa, Forex, Dibond, wavy cardboard …), paper bags, printing on tarpaulin, plastering of vehicles, and much more. We also replicate CDs and DVDs along side with all of the packaging such as CD and DVD inlays and eco packs.
                         </p>
                         <hr>
-                        <h2>Our vision</h2>
+                        <h2>Our mission</h2>
                         <p class="lead">
-                            In the next years we want to invest into new facilities, where we plan to combine all our activities in one place. We will secure for ourselves a prominent place in the field of marketing and printing, as we wish to support our clients in developing of advertising campaigns and we want to produce for them complex and environment friendly prints inside the Slovenian and European market.
+                            SILVECO is a client and environment oriented company, which produces quality products in the fields of printing and graphic design. We design and cooperate at some of the most complex projects, which are connected with modern marketing methods. Our services achieve the high environmental standards of the so called ecological printing houses, at the same time they save our costumers’ time and money.
                         </p>
 
 

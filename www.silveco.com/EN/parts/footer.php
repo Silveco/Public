@@ -6,8 +6,8 @@
                 <img src="/img/silvecoeconoga2.png" />
                 <hr>
                 <p class="diferent">Extra Links:</p>
-                <a href="/reklamacije.php">Terms and conditions</a><br>
-                <a href="/navodila-za-tisk.php">File preparation</a>
+                <a href="/EN/reklamacije.php">Terms and conditions</a><br>
+                <a href="/EN/navodila-za-tisk.php">File preparation</a>
             </div>
             <div class="col-sm-2 footer-notes">
                 <p>
