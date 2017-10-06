@@ -1199,6 +1199,11 @@ hr.empty {
     color:#c5ff08;
 }
 
+.big-pic {
+    width: 100%;
+    max-width: 400px;
+}
+
 /* language bar - translations */
 
 .language-bar {

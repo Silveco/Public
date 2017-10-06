@@ -604,11 +604,11 @@ $pgAuthor="Silveco Web Design Studio"
                                         </tr>
                                         <tr>
                                             <td>
-                                                <img src="/img/11.jpg" />
+                                                <img src="/img/11.jpg" class="big-pic" />
 
                                             </td>
                                             <td>
-                                                <img src="/img/12.jpg" />
+                                                <img src="/img/12.jpg" class="big-pic" />
 
                                             </td>
                                         </tr>

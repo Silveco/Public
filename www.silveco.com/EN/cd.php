@@ -150,7 +150,7 @@ $pgAuthor="Silveco Web Design Studio"
                                 <h4>We accept layout design files in the following formats:</h4>
                                 <ul>
                                     <li><span class="green">Adobe PDF</span> - composite, <span class="cyan">C</span><span class="magenta">M</span><span class="yellow">Y</span>K, Press optimized</li>
-                                    <li><span class="green">TIFF</span> - <span class="cyan">C</span><span class="magenta">M</span><span class="yellow">Y</span>K; at least 300 dpi; when using black letters on a white backgorund or if there is a letter code used in the design, resolution should be at least 450 dpi; file should not hold any layers</li>
+                                    <li><span class="green">TIFF</span> - <span class="cyan">C</span><span class="magenta">M</span><span class="yellow">Y</span>K; at least 300 dpi; when using black letters on a white background or if there is a letter code used in the design, resolution should be at least 450 dpi; file should not hold any layers</li>
                                 </ul>
                                 <p class="lead">
                                     Together with the delivered file, a printed sample or best proof or delivery order must be provided as well - in case where printing is done following only the delivered design or from the basic print, we do not hold responsibility for the absolute printing accuracy. If no samples were provided along with the layout design, we do not hold responsibility for the possible errors (e.g. wrong montage, packaging,...)!
@@ -514,6 +514,7 @@ $pgAuthor="Silveco Web Design Studio"
 
                         </div>
                             <div id="menu5" class="tab-pane fade">
+
                                 <h2>Prepress review for CD/DVD discs</h2>
                                 <p class="lead">
                                     We use offset or screen printing technology for CD/DVD disc printing. Each has its own advantages and weaknesses, as seen in the table below.
@@ -528,8 +529,8 @@ $pgAuthor="Silveco Web Design Studio"
 
                                     <tbody>
                                         <tr class="table-heading">
-                                            <td width="50%">Images</td>
-                                            <td width="50%">Images</td>
+                                            <td>Images</td>
+                                            <td>Images</td>
                                         </tr>
                                         <tr>
                                             <td>
@@ -606,11 +607,11 @@ $pgAuthor="Silveco Web Design Studio"
                                         </tr>
                                         <tr>
                                             <td>
-                                                <img src="/img/11.jpg" />
+                                                <img src="/img/11.jpg" class="big-pic"/>
 
                                             </td>
                                             <td>
-                                                <img src="/img/12.jpg" />
+                                                <img src="/img/12.jpg" class="big-pic"/>
 
                                             </td>
                                         </tr>

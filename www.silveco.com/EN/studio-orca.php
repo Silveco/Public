@@ -34,7 +34,7 @@ $pgAuthor="Silveco Web Design Studio"
                         <div class="tab-content insite-navigation">
                             <div id="menu1" class="tab-pane fade in active">
                                 <div class="col-lg-4">
-                                    <h2 class="insite">Grafično Oblikovanje</h2>
+                                    <h2 class="insite">Graphic Design</h2>
                                     <img src="/img/graphic-design.jpg" class="insite-img" />
                                 </div>
                                 <div class="col-lg-8">
