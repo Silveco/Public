@@ -1,6 +1,6 @@
 <?php
 
-$pgLng="sl-SI";
+$pgLng="en-EN";
 $pgKeywords="Tiskarna, Silveco";
 $pgDesc="O podjetju Silveco d.o.o.";
 $pgTitle="O nas - Silveco Tiskarna";

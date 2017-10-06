@@ -1,6 +1,6 @@
 <?php
 
-$pgLng="sl-SI";
+$pgLng="en-EN";
 $pgKeywords="Tiskarna, Silveco, grafično oblikovanje, grafična priprava, graphic design, priprava za tisk,";
 $pgDesc="Tiskarna Silveco";
 $pgTitle="Tiskarna - Silveco Tiskarna";

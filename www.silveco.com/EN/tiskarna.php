@@ -1,6 +1,6 @@
 <?php
 
-$pgLng="sl-SI";
+$pgLng="en-EN";
 $pgKeywords="Tiskarna, Silveco, tisk, tiskaj, dostisk, malo formatni tisk, veliko formatni tisk, plakati, vizitke, tisk vizitk, tisk letakov, tisk brušur, tisk zloženk, plakati, zloženke, brušure, letaki, flyerji, tisk flyerjev";
 $pgDesc="Tiskarna Silveco";
 $pgTitle="Tiskarna - Silveco Tiskarna";

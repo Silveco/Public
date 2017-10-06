@@ -1204,6 +1204,14 @@ hr.empty {
     max-width: 400px;
 }
 
+.certi {
+    background: #333;
+    margin: 0 0 0 30px;
+    padding: 10px 0 105px 0;
+    border-radius: 5px;
+    border: 1px solid #444;
+}
+
 /* language bar - translations */
 
 .language-bar {

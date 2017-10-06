@@ -1,6 +1,6 @@
 <?php
 
-$pgLng="sl-SI";
+$pgLng="en-EN";
 $pgKeywords="Tiskarna, Silveco, spletne strani, izdelava spletnih strani, spletne apliakcije, gostovanje, spletno gostovanje, grafično oblikovanje spletnih strani, websites, web oblikovanje, email gostovanje, email naslovi";
 $pgDesc="Tiskarna Silveco";
 $pgTitle="Tiskarna - Silveco Tiskarna";
