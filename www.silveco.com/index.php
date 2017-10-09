@@ -15,6 +15,34 @@ $pgAuthor="Silveco Web Design Studio"
 
 <!-- ----------------------- START PAGE HTML HERE ----------------------- -->
 
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("#myModal787").modal('show');
+    });
+</script>
+<div id="myModal787" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Akcija SEPTEMBER 2017</h4>
+            </div>
+            <div class="modal-body homepop">
+                <img src="/img/FB-September-Akcija.jpg" />
+                <h3>Preverite našo akcijsko ponudbo meseca SEPTEMBRA</h3>
+
+                <a href="/akcije/september2017.php" class="btn btn-primary home" role="button">Preberi Več</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
 
     <div class="intro-header homebanner">
         <div class="container">
@@ -22,10 +50,6 @@ $pgAuthor="Silveco Web Design Studio"
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-gallery">
-
-
-
-
                     </div>
                 </div>
             </div>

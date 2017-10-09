@@ -371,7 +371,7 @@ p.diferent {
         margin-bottom: 0;
     }
     img.logo {
-        margin: -15px 0 0 0;
+        margin: 20px 0 0 0;
     }
 }
 
@@ -1210,6 +1210,22 @@ hr.empty {
     padding: 10px 0 105px 0;
     border-radius: 5px;
     border: 1px solid #444;
+}
+.homepop {
+    text-align: center;
+}
+.homepop h3 {
+    color: #ddd;
+    margin-bottom: 20px;
+}
+.homepop p {
+    color: #ddd;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.homepop img {
+    width: 100%;
 }
 
 /* language bar - translations */
