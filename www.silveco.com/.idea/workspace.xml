@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="../app.silveco.si/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,7 +258,7 @@
       <workItem from="1507293959886" duration="2740000" />
       <workItem from="1507530568355" duration="3000" />
       <workItem from="1507530668073" duration="1107000" />
-      <workItem from="1507535749510" duration="3044000" />
+      <workItem from="1507535749510" duration="3059000" />
     </task>
     <task id="LOCAL-00001" summary="test 234">
       <created>1504096744002</created>
@@ -353,11 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507538915503</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Homepage popup">
+      <created>1507538966991</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1507538966991</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30891000" />
+    <option name="totallyTimeSpent" value="30906000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
