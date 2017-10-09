@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../matejadereani.si/.idea/matejadereani.si.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../matejadereani.si/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="../app.silveco.si/.idea/" />
@@ -257,7 +259,7 @@
       <workItem from="1507530568355" duration="3000" />
       <workItem from="1507530668073" duration="1107000" />
       <workItem from="1507535749510" duration="4260000" />
-      <workItem from="1507547730882" duration="194000" />
+      <workItem from="1507547730882" duration="642000" />
     </task>
     <task id="LOCAL-00001" summary="test 234">
       <created>1504096744002</created>
@@ -368,7 +370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32301000" />
+    <option name="totallyTimeSpent" value="32749000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
