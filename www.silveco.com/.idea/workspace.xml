@@ -6,18 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/about-us.php" afterPath="$PROJECT_DIR$/EN/about-us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/cd.php" afterPath="$PROJECT_DIR$/EN/cd.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/contact.php" afterPath="$PROJECT_DIR$/EN/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/index.php" afterPath="$PROJECT_DIR$/EN/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/navodila-za-tisk.php" afterPath="$PROJECT_DIR$/EN/navodila-za-tisk.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/omninet.php" afterPath="$PROJECT_DIR$/EN/omninet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/parts/header.php" afterPath="$PROJECT_DIR$/EN/parts/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/reklamacije.php" afterPath="$PROJECT_DIR$/EN/reklamacije.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/studio-orca.php" afterPath="$PROJECT_DIR$/EN/studio-orca.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/tiskarna.php" afterPath="$PROJECT_DIR$/EN/tiskarna.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/footer.php" afterPath="$PROJECT_DIR$/parts/footer.php" />
     </list>
     <ignored path="../app.silveco.si/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,25 +17,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parts/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="1139">
               <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding>
-                <element signature="e#3319#3325#1#HTML" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#noscript#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1017">
+            <state relative-caret-position="1271">
               <caret line="1209" column="25" lean-forward="false" selection-start-line="1209" selection-start-column="25" selection-end-line="1209" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tiskarna.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EN/tiskarna.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="127" column="170" lean-forward="false" selection-start-line="127" selection-start-column="170" selection-end-line="127" selection-end-column="170" />
               <folding />
             </state>
           </provider>
@@ -109,9 +105,9 @@
         <option value="$PROJECT_DIR$/EN/omninet.php" />
         <option value="$PROJECT_DIR$/EN/reklamacije.php" />
         <option value="$PROJECT_DIR$/EN/studio-orca.php" />
-        <option value="$PROJECT_DIR$/EN/tiskarna.php" />
         <option value="$PROJECT_DIR$/parts/footer.php" />
         <option value="$PROJECT_DIR$/css/global.css" />
+        <option value="$PROJECT_DIR$/EN/tiskarna.php" />
       </list>
     </option>
   </component>
@@ -146,7 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +174,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +223,9 @@
       <workItem from="1506933245896" duration="239000" />
       <workItem from="1507097844928" duration="2363000" />
       <workItem from="1507271466876" duration="1768000" />
-      <workItem from="1507293959886" duration="2242000" />
+      <workItem from="1507293959886" duration="2740000" />
+      <workItem from="1507530568355" duration="3000" />
+      <workItem from="1507530668073" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="test 234">
       <created>1504096744002</created>
@@ -285,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507273209188</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Certifikat">
+      <created>1507299472651</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1507299472651</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26239000" />
+    <option name="totallyTimeSpent" value="27049000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -305,7 +310,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13726571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14057332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.49701494" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.50496143" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -362,7 +367,8 @@
     <MESSAGE value="final EN prevod" />
     <MESSAGE value="popravki EN prevoda&#10;popravki SLO vsebine" />
     <MESSAGE value="popravki EN prevoda&#10;HTML popravki" />
-    <option name="LAST_COMMIT_MESSAGE" value="popravki EN prevoda&#10;HTML popravki" />
+    <MESSAGE value="Certifikat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Certifikat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="55" lean-forward="false" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -483,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,14 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/tiskarna.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -744,19 +736,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parts/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="1139">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding>
-            <element signature="e#3319#3325#1#HTML" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#noscript#0;n#div#1;n#footer#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1017">
+        <state relative-caret-position="1271">
           <caret line="1209" column="25" lean-forward="false" selection-start-line="1209" selection-start-column="25" selection-end-line="1209" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/tiskarna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="127" column="170" lean-forward="false" selection-start-line="127" selection-start-column="170" selection-end-line="127" selection-end-column="170" />
           <folding />
         </state>
       </provider>

@@ -125,7 +125,7 @@ $pgAuthor="Silveco Web Design Studio"
                                         Personalization reveals a dimension of direct marketing, which involves communication with an emotional note. The technology developed for personalization in form of images enables you to individually communicate with your clients and business partners in a unique and influential way. In SILVECO we use this world leading technology of personalization.
                                     </p>
                                     <p class="lead smaller">
-                                        Personalization of advertizing materials with simple printing of a name on the print is something widely used nowadays. We can us this kind of personalization and combine it with finished images on which we print a certain name.
+                                        Personalization of advertizing materials with simple printing of a name on the print is something widely used nowadays. We can use this kind of personalization and combine it with finished images on which we print a certain name.
                                     </p>
                                     <h3>A more powerful effect of your marketing communication</h3>
                                     <p class="lead">
