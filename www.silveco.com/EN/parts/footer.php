@@ -61,6 +61,25 @@
             </div>
         </div>
     </div>
+
+    <div class="CON_container_classic certi">
+        <div id="con_s_container_72">&nbsp;</div>
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var _CONNET_ = document.createElement('script');
+            _CONNET_.src = "https://verify.safesigned.com/seal_js?cert=72";
+            _CONNET_.text = "var CON_72 = new CON(733, 72, 5 ); CON_72.loadSeal();";
+            document.getElementsByTagName('head')[0].appendChild(_CONNET_);
+            /* ]]> */
+        </script>
+        <noscript>
+            <a href="http://www.safesigned.com/"><img
+                        src="https://verify.safesigned.com/images/cert_72/seal/classic_js_disabled.png"
+                        alt="SecuCert seal" style="border: 0" /></a>
+        </noscript>
+    </div>
+
+
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
