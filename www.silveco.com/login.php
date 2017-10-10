@@ -1,4 +1,14 @@
 <?php
+//include config
+require_once('includes/config.php');
+//check if already logged in move to home page
+if( $user->is_logged_in() ){ header('Location: memberpage.php'); }
+?>
+
+
+
+
+<?php
 
 $pgLng="sl-SI";
 $pgKeywords="Tiskarna, Silveco, tiskarna silveco, tisk, oblikovanje, grafična priprava, spletno oblikovanje, replikacija CD, CDji, izdelava CDjev, Izdelava DVDjev, replikacija DVDjev, grafično oblikovanje, spletno gostovanje";
@@ -15,14 +25,10 @@ $pgAuthor="Silveco Web Design Studio"
 <!-- ----------------------- START login form HERE ----------------------- -->
 
 
-<?php
-//include config
-require_once('includes/config.php');
-?>
+
 
 <?php
-//check if already logged in move to home page
-if( $user->is_logged_in() ){ header('Location: memberpage.php'); }
+
 
 //process login form if submitted
 if(isset($_POST['submit'])){
