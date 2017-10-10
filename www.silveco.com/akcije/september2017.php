@@ -28,31 +28,30 @@ $pgAuthor="Silveco Web Design Studio"
                     <h2>Akcijska ponudba 2017 - VSE TO ŽE ZA <strong class="green">510€</strong></h2>
 
                     <p class="lead">
-                        Za vsa novo nastala oz. podjetja v začetku delovanja, smo v mesecu septembu pripravili akcijsko ponudbo izdelkov,
+                        Za vsa novo nastala podjetja, smo v mesecu septembru pripravili akcijsko ponudbo izdelkov,
                         ki jih potrebujete za uspešen zagon in poslovanje:
                     </p>
                     <h3>IZRIS LOGOTIPA:</h3>
                     <p class="lead smaller">
                         Na prvem mestu je seveda izris logotipa, ki je ključnega pomena za prepoznavnost podjetja ali blagovne znamke.<br>
                         Ponudba vsebuje preprosto celostno grafično podobo (CGP) logotipa v pdf verziji, katera vsebuje določitev tipografije, barvne kombinacije ter
-                        logotip v 4ih različicah: barvni, črnobeli, ter prilagojen na primer konfliktne barve ozadja.
+                        logotip v 4 različicah: barvni, črnobeli, ter prilagojen na primer konfliktne barve ozadja.
                     </p>
                     <h3>VIZITKE IN DOPISNI LISTI:</h3>
                     <p class="lead smaller">
-                        Kot najbolj pomembne poslovne tiskovino smo dodali izdelavo vizitk ter dopisnih listov.<br>
-                        Ponudba vsebuje grafično oblikovanje z 200 dvostranskimi neplastificiranimi vizitkami ter 1000 natisnjenih dopisnih lostov.
+                        Kot najbolj pomembno poslovno tiskovino smo dodali izdelavo vizitk ter dopisnih listov.<br>
+                        Ponudba vsebuje grafično oblikovanje z 200 dvostranskimi neplastificiranimi vizitkami ter 1000 natisnjenih dopisnih listov.
                     </p>
-                    <h3>POSLOVNA ŠTEMPILJKA:</h3>
+                    <h3>POSLOVNA ŠTAMPILJKA:</h3>
                     <p class="lead smaller">
-                        Za podjetja, ki poslujejo s poslovnim žigom, smo v ponudbo dodali oblikovanje ter izdelavo štempiljke Trodat v standardni meri 47x18mm.<br>
-                        Če pa bi želeli imeti kakšno drugo velikost pa nam to sporočite predhodno.
+                        Za podjetja, ki poslujejo s poslovnim žigom, smo v ponudbo dodali oblikovanje ter izdelavo štampiljke Trodat v standardni meri 47x18mm.<br>
+                        Če pa bi želeli imeti kakšno drugo velikost, pa nam to sporočite predhodno.
                     </p>
                     <h3>SPLETNA STRAN:</h3>
                     <p class="lead smaller">
                         V današnjem digitalnem svetu je zelo pomembno, da se vaše podjetje pojavlja tudi na spletu.<br>
-                        Zato za vas oblikujemo ter
-                        izdelamo standardno spletno stran, ki vključuje grafično temo prilagojeno na podobo vašega podjetja, ter opcijsko tudi
-                        urejevalnik vsebine.Za le-to pa vam prilagamo tudi spletno gostovanje ter gostovanje elektroskih naslovov.
+                        Zato za vas oblikujemo ter izdelamo standardno spletno stran, ki vključuje grafično temo prilagojeno na podobo vašega podjetja, ter opcijsko tudi
+                        urejevalnik vsebine. Za le-to pa vam ponujamo tudi spletno gostovanje ter gostovanje elektronskih naslovov (emailov).
                     </p>
 
 

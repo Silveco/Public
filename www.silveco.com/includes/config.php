@@ -12,8 +12,8 @@ define('DBPASS','UHGMUTz90aRd');
 define('DBNAME','silvec0_users');
 
 //application address
-define('DIR','http://silveco.com/');
-define('SITEEMAIL','studio.orca@silveco.com');
+define('DIR','http://www.silveco.com/');
+define('SITEEMAIL','noreply@silveco.com');
 
 try {
 

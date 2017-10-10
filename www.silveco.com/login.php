@@ -15,13 +15,14 @@ $pgAuthor="Silveco Web Design Studio"
 <!-- ----------------------- START login form HERE ----------------------- -->
 
 
-
 <?php
 //include config
 require_once('includes/config.php');
+?>
 
+<?php
 //check if already logged in move to home page
-if( $user->is_logged_in() ){ header('Location: index.php'); }
+if( $user->is_logged_in() ){ header('Location: memberpage.php'); }
 
 //process login form if submitted
 if(isset($_POST['submit'])){
@@ -45,16 +46,10 @@ if(isset($_POST['submit'])){
 
 
 
+
 <!-- ----------------------- START PAGE HTML HERE ----------------------- -->
 
-
-
-
-
-
-
-
-    <!-- Page Content -->
+g<!-- Page Content -->
 <!-- SECTION A -->
 	<a  name="services"></a>
     <div class="content-section-a front-page">
@@ -110,7 +105,12 @@ if(isset($_POST['submit'])){
 
                     <hr>
                     <div class="row">
-                        <div class="col-xs-6 col-md-6"><input type="submit" name="submit" value="Prijava" class="btn btn-primary btn-block btn-lg" tabindex="5"></div>
+                        <div class="col-xs-6 col-md-6">
+                            <input type="submit" name="submit" value="Prijava" class="btn btn-primary btn-block btn-lg" tabindex="5">
+                        </div>
+                        <div class="col-xs-6 col-md-6">
+                            <a class="btn btn-primary btn-block btn-lg" href="register.php">Registracija</a>
+                        </div>
                     </div>
                 </form>
             </div>

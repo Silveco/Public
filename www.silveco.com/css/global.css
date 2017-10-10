@@ -1217,6 +1217,12 @@ hr.empty {
 .homepop h3 {
     color: #ddd;
     margin-bottom: 20px;
+    margin-top: 0;
+    padding: 20px 0;
+    background: #222;
+    border: 1px solid #555;
+    border-radius: 0 0 10px 10px;
+    border-top: none;
 }
 .homepop p {
     color: #ddd;
@@ -1226,8 +1232,35 @@ hr.empty {
 
 .homepop img {
     width: 100%;
+    border-radius: 10px 10px 0 0;
+    border: 1px solid #555;
+    border-bottom: none;
 }
 
+.bg-danger {
+    background-color: #900;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #b00;
+    font-size: 15px;
+}
+.bg-success {
+    background-color: #090;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #0b0;
+    font-size: 15px;
+}
+button.close.popbut {
+    font-size: 15px;
+    color: #bbb;
+    text-shadow: none;
+    opacity: 1;
+    border: none;
+    margin-top: 6px;
+}
 /* language bar - translations */
 
 .language-bar {

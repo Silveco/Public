@@ -33,33 +33,33 @@ if(isset($_POST['submit'])){
         $row = $stmt->fetch(PDO::FETCH_ASSOC);
 
         if(!empty($row['username'])){
-            $error[] = 'Username provided is already in use.';
+            $error[] = 'Uporabniško ime je že v uporabi.';
         }
 
     }
 
     if(strlen($_POST['password']) < 3){
-        $error[] = 'Password is too short.';
+        $error[] = 'Geslo je prekratko.';
     }
 
     if(strlen($_POST['passwordConfirm']) < 3){
-        $error[] = 'Confirm password is too short.';
+        $error[] = 'Ponovljeno geslo je prekratko.';
     }
 
     if($_POST['password'] != $_POST['passwordConfirm']){
-        $error[] = 'Passwords do not match.';
+        $error[] = 'Gesla se ne ujemata.';
     }
 
     //email validation
     if(!filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)){
-        $error[] = 'Please enter a valid email address';
+        $error[] = 'Prosimo unesite veljaven email naslov';
     } else {
         $stmt = $db->prepare('SELECT email FROM members WHERE email = :email');
         $stmt->execute(array(':email' => $_POST['email']));
         $row = $stmt->fetch(PDO::FETCH_ASSOC);
 
         if(!empty($row['email'])){
-            $error[] = 'Email provided is already in use.';
+            $error[] = 'Email je že v uporabi.';
         }
 
     }
@@ -88,10 +88,10 @@ if(isset($_POST['submit'])){
 
             //send email
             $to = $_POST['email'];
-            $subject = "Registration Confirmation";
-            $body = "<p>Thank you for registering at demo site.</p>
-			<p>To activate your account, please click on this link: <a href='".DIR."activate.php?x=$id&y=$activasion'>".DIR."activate.php?x=$id&y=$activasion</a></p>
-			<p>Regards Site Admin</p>";
+            $subject = "Potrditev registracije - Silveco";
+            $body = "<p>Hvala za prijavo v spletno stran Silveco.com</p>
+			<p>Za aktivacijo kliknite na povezavo: <a href='".DIR."activate.php?x=$id&y=$activasion'>".DIR."activate.php?x=$id&y=$activasion</a></p>
+			<p>Lep pozdrav, ekipa Silveco</p>";
 
             $mail = new Mail();
             $mail->setFrom(SITEEMAIL);

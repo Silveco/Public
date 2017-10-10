@@ -4,6 +4,8 @@
 <!-- Custom CSS -->
 <link href="/css/global.css" rel="stylesheet">
 
+
+
 <!-- Animate CSS -->
 <link href="/css/animate.css" rel="stylesheet">
 
