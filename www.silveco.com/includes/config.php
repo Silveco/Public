@@ -7,10 +7,10 @@ session_start();
 date_default_timezone_set('Europe/London');
 
 //database credentials
-define('DBHOST','localhost');
-define('DBUSER','silvec0_users');
-define('DBPASS','UHGMUTz90aRd');
-define('DBNAME','silvec0_users');
+define('DBHOST','xxxxx');
+define('DBUSER','xxxxx');
+define('DBPASS','xxxxx');
+define('DBNAME','xxxxx');
 
 //application address
 define('DIR','http://www.silveco.com/');

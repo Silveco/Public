@@ -28,19 +28,19 @@ $pgAuthor="Silveco Web Design Studio"
                     <h2>Akcijska ponudba 2017 - VSE TO ŽE ZA <strong class="green">510€</strong></h2>
 
                     <p class="lead">
-                        Za vsa novo nastala podjetja, smo v mesecu septembru pripravili akcijsko ponudbo izdelkov,
-                        ki jih potrebujete za uspešen zagon in poslovanje:
+                        Za vsa novo nastala podjetja smo v mesecu septembru pripravili akcijsko ponudbo izdelkov,
+                        ki jih potrebujete za uspešen zagon in poslovanje.
                     </p>
                     <h3>IZRIS LOGOTIPA:</h3>
                     <p class="lead smaller">
                         Na prvem mestu je seveda izris logotipa, ki je ključnega pomena za prepoznavnost podjetja ali blagovne znamke.<br>
-                        Ponudba vsebuje preprosto celostno grafično podobo (CGP) logotipa v pdf verziji, katera vsebuje določitev tipografije, barvne kombinacije ter
-                        logotip v 4 različicah: barvni, črnobeli, ter prilagojen na primer konfliktne barve ozadja.
+                        Ponudba vsebuje preprosto grafično podobo logotipa v pdf verziji, katera vsebuje določitev tipografije, barvne kombinacije ter
+                        logotip v različicah: barvni, črnobeli, ter prilagojen na primer konfliktne barve ozadja.
                     </p>
                     <h3>VIZITKE IN DOPISNI LISTI:</h3>
                     <p class="lead smaller">
                         Kot najbolj pomembno poslovno tiskovino smo dodali izdelavo vizitk ter dopisnih listov.<br>
-                        Ponudba vsebuje grafično oblikovanje z 200 dvostranskimi neplastificiranimi vizitkami ter 1000 natisnjenih dopisnih listov.
+                        Ponudba vsebuje grafično oblikovanje z 200 vizitkami ter 1000 natisnjenih dopisnih listov.
                     </p>
                     <h3>POSLOVNA ŠTAMPILJKA:</h3>
                     <p class="lead smaller">
@@ -51,7 +51,7 @@ $pgAuthor="Silveco Web Design Studio"
                     <p class="lead smaller">
                         V današnjem digitalnem svetu je zelo pomembno, da se vaše podjetje pojavlja tudi na spletu.<br>
                         Zato za vas oblikujemo ter izdelamo standardno spletno stran, ki vključuje grafično temo prilagojeno na podobo vašega podjetja, ter opcijsko tudi
-                        urejevalnik vsebine. Za le-to pa vam ponujamo tudi spletno gostovanje ter gostovanje elektronskih naslovov (emailov).
+                        urejevalnik vsebine. Poleg tega vam ponujamo tudi spletno gostovanje ter gostovanje elektronskih naslovov (emailov).
                     </p>
 
 

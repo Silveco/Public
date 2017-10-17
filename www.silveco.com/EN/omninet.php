@@ -1,9 +1,9 @@
 <?php
 
 $pgLng="en-EN";
-$pgKeywords="Tiskarna, Silveco, spletne strani, izdelava spletnih strani, spletne apliakcije, gostovanje, spletno gostovanje, grafično oblikovanje spletnih strani, websites, web oblikovanje, email gostovanje, email naslovi";
-$pgDesc="Tiskarna Silveco";
-$pgTitle="Tiskarna - Silveco Tiskarna";
+$pgKeywords="Web design, web development, responsive websites, front-end development, back-end development, HTML, CSS, wordpress, prestashop, web stores, web hosting, hosting, email hosting, email, web, websites";
+$pgDesc="Our web studio offers a range of different web solutions for your business.";
+$pgTitle="Web design and development - Print house Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>

@@ -1,9 +1,9 @@
 <?php
 
 $pgLng="en-EN";
-$pgKeywords="Tiskarna, Silveco";
-$pgDesc="O podjetju Silveco d.o.o.";
-$pgTitle="O nas - Silveco Tiskarna";
+$pgKeywords="Print House, Printing, CD printing, DVD printing, CD replication, DVD replication, Offset printing, Digital printing, Web design, Design, DTP";
+$pgDesc="Here is some facts and descriptions about our company. Where can u find us and our contact information.";
+$pgTitle="About us - Print house Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>

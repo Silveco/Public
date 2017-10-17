@@ -5,9 +5,12 @@
             <div class="col-sm-3 foot-link">
                 <img src="/img/silvecoeconoga2.png" />
                 <hr>
+                <p class="diferent">Akcijska ponudba:</p>
+                <a href="/akcije/september2017.php">September 2017</a><br><br>
                 <p class="diferent">Dodatne povezave:</p>
                 <a href="/reklamacije.php">Pogoji poslovanja</a><br>
-                <a href="/navodila-za-tisk.php">Navodila za tisk</a>
+                <a href="/navodila-za-tisk.php">Navodila za tisk</a><br>
+
             </div>
             <div class="col-sm-2 footer-notes">
                 <p>
@@ -64,24 +67,7 @@
 
 
 
-    <!-- BEGIN SECUCERT SEAL BLOCK (CLASSIC for domain www.silveco.com ) -->
-    <div class="CON_container_classic certi">
-        <div id="con_s_container_72">&nbsp;</div>
-        <script type="text/javascript">
-            /* <![CDATA[ */
-            var _CONNET_ = document.createElement('script');
-            _CONNET_.src = "https://verify.safesigned.com/seal_js?cert=72";
-            _CONNET_.text = "var CON_72 = new CON(733, 72, 5 ); CON_72.loadSeal();";
-            document.getElementsByTagName('head')[0].appendChild(_CONNET_);
-            /* ]]> */
-        </script>
-        <noscript>
-            <a href="http://www.safesigned.com/"><img
-                        src="https://verify.safesigned.com/images/cert_72/seal/classic_js_disabled.png"
-                        alt="SecuCert seal" style="border: 0" /></a>
-        </noscript>
-    </div>
-    <!-- END SECUCERT SEAL BLOCK (CLASSIC) -->
+
 
 
 

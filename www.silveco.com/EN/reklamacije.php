@@ -1,9 +1,9 @@
 <?php
 
 $pgLng="en-EN";
-$pgKeywords="Tiskarna, Silveco";
-$pgDesc="O podjetju Silveco d.o.o.";
-$pgTitle="O nas - Silveco Tiskarna";
+$pgKeywords="Returns, problems, product returns, orders, refunds, mistakes";
+$pgDesc="Check our product return policy. We offer our customers a customer support and product return option if there was a mistake or a problem with your product. Please read the following conditions.  ";
+$pgTitle="Returns - Print house Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>

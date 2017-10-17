@@ -1,9 +1,9 @@
 <?php
 
 $pgLng="en-EN";
-$pgKeywords="Tiskarna, Silveco, tisk, tiskaj, dostisk, malo formatni tisk, veliko formatni tisk, plakati, vizitke, tisk vizitk, tisk letakov, tisk brušur, tisk zloženk, plakati, zloženke, brušure, letaki, flyerji, tisk flyerjev";
-$pgDesc="Tiskarna Silveco";
-$pgTitle="Tiskarna - Silveco Tiskarna";
+$pgKeywords="Print, printing, digital printing, offset printing, business printing, big format printing, xerox, heidelberg, large format printing,";
+$pgDesc="We offer a big variety of different printing technics and formats. Our modern machines provide a very good final product, from business cards, envelopes, posters, letters, etc..  ";
+$pgTitle="Print house - Print house Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>

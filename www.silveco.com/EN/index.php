@@ -1,9 +1,9 @@
 <?php
 
 $pgLng="en-EN";
-$pgKeywords="Tiskarna, Silveco, tiskarna silveco, tisk, oblikovanje, grafična priprava, spletno oblikovanje, replikacija CD, CDji, izdelava CDjev, Izdelava DVDjev, replikacija DVDjev, grafično oblikovanje, spletno gostovanje";
-$pgDesc="";
-$pgTitle="Silveco Tiskarna";
+$pgKeywords="Print House, Silveco, Print, Press, Design, Pre-press, web design, Xerox, digital printing, Heidelberg, offset printing, big format printing, large format printing, print studio,";
+$pgDesc="Welcome to print house Silveco. Take your time and check our printing solutions for your business. We offer a range of different printing solutions, that provide your company with the high-eng marceting products.";
+$pgTitle="Home - Print house Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>

@@ -1,9 +1,9 @@
 <?php
 
 $pgLng="en-EN";
-$pgKeywords="Tiskarna, Silveco, grafično oblikovanje, grafična priprava, graphic design, priprava za tisk,";
-$pgDesc="Tiskarna Silveco";
-$pgTitle="Tiskarna - Silveco Tiskarna";
+$pgKeywords="Graphic studio, grapfic design, designeres, prepress, press, press production,";
+$pgDesc="We offer a very professional graphic team, that can provide you with a modern adn professional graphic designs. Check our offer on our website or contact us by out email or phone. ";
+$pgTitle="Graphic Studio Orca  - Print house Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>
@@ -77,7 +77,7 @@ $pgAuthor="Silveco Web Design Studio"
                                         Personalization reveals a dimension of direct marketing, which involves communication with an emotional note. The technology developed for personalization in form of images enables you to individually communicate with your clients and business partners in a unique and influential way. In SILVECO we use this world leading technology of personalization.
                                     </p>
                                     <p class="lead smaller">
-                                        Personalization of advertizing materials with simple printing of a name on the print is something widely used nowadays. We can us this kind of personalization and combine it with finished images on which we print a certain name.
+                                        Personalization of advertizing materials with simple printing of a name on the print is something widely used nowadays. We can use this kind of personalization and combine it with finished images on which we print a certain name.
                                     </p>
                                     <h3>A more powerful effect of your marketing communication</h3>
                                     <p class="lead">
