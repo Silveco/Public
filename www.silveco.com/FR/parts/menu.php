@@ -22,10 +22,7 @@
                     <a target="_blank" href="https://www.facebook.com/silvecoprintinghouse/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
 
                 </div>
-                                          <!--  <div class="user-login lgin">
-                                                <i class="fa fa-user" aria-hidden="true"></i>
-                                                <a href="#">Prijava</a>
-                                            </div> -->
+
             </div>
         </div>
         <div class="container topnav">
@@ -70,7 +67,7 @@
                             <li><a href="/FR/omninet">Web Studio OMNINET</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <!-- <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                             <p class="link-heading">Links</p>
                             <p class="link-sub-heading">to aplications</p>
@@ -82,7 +79,7 @@
                             <li><a href="https://host20.registrar-servers.com:2083/" target="_blank">CPanel</a></li>
                             <li><a href="https://host20.registrar-servers.com:2096" target="_blank">Webmail</a></li>
                         </ul>
-                    </li>
+                    </li> -->
 
 
                     <li>

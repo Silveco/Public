@@ -253,6 +253,10 @@ p.diferent {
     .contact-favicons i {
         font-size: 35px;
     }
+    .user-login {
+        top: 0 !important;
+        right: 5px !important;
+    }
 }
 @media(max-width:992px) {
     .navbar-header {
@@ -1168,10 +1172,11 @@ hr.empty {
     border: 1px solid #444;
     border-top: none;
     border-radius: 0 0 10px 10px;
-    padding: 7px 10px 0 10px;
+    padding: 7px 10px 5px 10px;
     line-height: 12px;
     font-size: 12px;
     right: 30px;
+    box-shadow: 0px 3px 5px rgba(0,0,0,0.6);
 }
 .user-login i {
     float: left;
@@ -1181,7 +1186,6 @@ hr.empty {
 
 .user-login a {
     display: block;
-    padding-bottom: 7px;
     float: left;
 }
 
@@ -1226,6 +1230,7 @@ hr.empty {
 .homepop h3 {
     color: rgba(21,171,283,1);
     margin: 0;
+    padding: 0 10px;
 }
 .homepop p {
     color: #ddd;
@@ -1294,4 +1299,33 @@ button.close.popbut {
 
 .language-bar {
     /*display: none;*/
+}
+a.u-link {
+    background: #222;
+    display: block;
+    border-radius: 10px;
+    padding: 10px 5px 0px 5px;
+    border: 1px solid #444;
+    margin-bottom: 20px;
+    text-align: center;
+}
+a.u-link:hover {
+    background: #444;
+}
+.u-link img {
+    width: 80%;
+    margin-bottom: 5px;
+}
+a.u-link p {
+    text-align: center;
+    color: #ddd;
+}
+
+a.u-link p:hover {
+    color: #c5ff08;
+}
+
+a.lgout {
+    float: right;
+    margin-left: 5px;
 }

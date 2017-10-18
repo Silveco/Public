@@ -22,10 +22,21 @@
                     <a target="_blank" href="https://www.facebook.com/silvecoprintinghouse/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
 
                 </div>
-                                          <!--  <div class="user-login lgin">
+                                          <div class="user-login lgin">
                                                 <i class="fa fa-user" aria-hidden="true"></i>
-                                                <a href="#">Prijava</a>
-                                            </div> -->
+                                              <?php
+                                              require_once('includes/config.php');
+
+                                              ?>
+                                              <?php if($user->is_logged_in()) {
+                                                  echo '<a href="/logout.php" class="lgout">Odjava</a>';
+                                                  echo $_SESSION['username'];
+
+                                              } else {
+                                                  echo '<a href="/login.php">Prijava</a>';
+                                              }
+                                              ?>
+                                            </div>
             </div>
         </div>
         <div class="container topnav">
@@ -70,19 +81,19 @@
                             <li><a href="/omninet">Spletni Studio OMNINET</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            <p class="link-heading">Povezave</p>
-                            <p class="link-sub-heading">do aplikacij</p>
+                    <!-- <li class="dropdown">
+                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                             <p class="link-heading">Povezave</p>
+                             <p class="link-sub-heading">do aplikacij</p>
 
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a href="http://app.silveco.si/index.php?controller=authentication" target="_blank">Partnerji dostop</a></li>
-                            <li><a href="http://files.silveco.si" target="_blank">Upravljalec datotek</a></li>
-                            <li><a href="https://host20.registrar-servers.com:2083/" target="_blank">Prijava v CPanel</a></li>
-                            <li><a href="https://host20.registrar-servers.com:2096" target="_blank">Prijava v Webmail</a></li>
-                        </ul>
-                    </li>
+                         </a>
+                          <ul class="dropdown-menu">
+                             <li><a href="http://app.silveco.si/index.php?controller=authentication" target="_blank">Partnerji dostop</a></li>
+                             <li><a href="http://files.silveco.si" target="_blank">Upravljalec datotek</a></li>
+                             <li><a href="https://host20.registrar-servers.com:2083/" target="_blank">Prijava v CPanel</a></li>
+                             <li><a href="https://host20.registrar-servers.com:2096" target="_blank">Prijava v Webmail</a></li>
+                         </ul>
+                    </li>-->
 
 
                     <li>

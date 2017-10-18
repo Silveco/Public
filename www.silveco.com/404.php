@@ -25,9 +25,9 @@ $pgAuthor="Silveco Web Design Studio"
         <div class="row">
             <div class="col-lg-12">
                 <div class="main-page-content">
-                    <h2404 error - Stran ne obstaja (page does not exist)</h2>
+                    <h2>404 error - Stran ne obstaja (page does not exist)</h2>
                     <p class="lead">
-                        Stran ki jo želite odpreti na žalost ne obstaja! / The page you are trying to reach does not exist!
+                        Stran, ki jo želite odpreti na žalost ne obstaja! / The page you are trying to reach does not exist!
                         <br><br>
                         <a href="/">Domov / Home</a>
                     </p>

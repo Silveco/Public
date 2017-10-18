@@ -13,7 +13,7 @@ if( $user->is_logged_in() ){ header('Location: memberpage.php'); }
 $pgLng="sl-SI";
 $pgKeywords="Tiskarna, Silveco, tiskarna silveco, tisk, oblikovanje, grafična priprava, spletno oblikovanje, replikacija CD, CDji, izdelava CDjev, Izdelava DVDjev, replikacija DVDjev, grafično oblikovanje, spletno gostovanje";
 $pgDesc="";
-$pgTitle="Silveco Tiskarna";
+$pgTitle="Prijava - Silveco";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>
@@ -114,9 +114,7 @@ g<!-- Page Content -->
                         <div class="col-xs-6 col-md-6">
                             <input type="submit" name="submit" value="Prijava" class="btn btn-primary btn-block btn-lg" tabindex="5">
                         </div>
-                        <div class="col-xs-6 col-md-6">
-                            <a class="btn btn-primary btn-block btn-lg" href="register.php">Registracija</a>
-                        </div>
+
                     </div>
                 </form>
             </div>
