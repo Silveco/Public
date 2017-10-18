@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="dev.omninet.si" uploadOnCheckin="50ede7e4-cace-488f-ae08-cd382abc3d47">
+  <component name="PublishConfigData" serverName="dev.omninet.si" uploadOnCheckin="50ede7e4-cace-488f-ae08-cd382abc3d47">
     <serverData>
       <paths name="Silveco New">
         <serverdata>
@@ -25,6 +25,5 @@
       </paths>
     </serverData>
     <option name="myUploadOnCheckinName" value="Silveco New" />
-    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>

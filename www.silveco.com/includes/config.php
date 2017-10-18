@@ -7,13 +7,13 @@ session_start();
 date_default_timezone_set('Europe/London');
 
 //database credentials
-define('DBHOST','xxxxx');
-define('DBUSER','xxxxx');
-define('DBPASS','xxxxx');
-define('DBNAME','xxxxx');
+define('DBHOST','localhost');
+define('DBUSER','xxx');
+define('DBPASS','xxx');
+define('DBNAME','xxx');
 
 //application address
-define('DIR','http://www.silveco.com/');
+define('DIR','http://dev.omninet.si/');
 define('SITEEMAIL','noreply@silveco.com');
 
 try {
