@@ -90,8 +90,7 @@ if(isset($_POST['submit'])){
 //define page title
 $title = 'Reset Account';
 
-//include header template
-require('layout/header.php');
+
 ?>
 
 

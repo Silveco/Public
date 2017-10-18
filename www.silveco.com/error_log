@@ -266,3 +266,46 @@
 [18-Oct-2017 08:25:43 America/New_York] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/omninetsi/public_html/development/parts/menu.php on line 27
 [18-Oct-2017 08:25:59 America/New_York] PHP Notice:  Undefined variable: user in /home/omninetsi/public_html/development/parts/menu.php on line 27
 [18-Oct-2017 08:25:59 America/New_York] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/omninetsi/public_html/development/parts/menu.php on line 27
+[18-Oct-2017 09:05:56 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:08:16 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:08:39 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:10:52 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:11:44 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:14:54 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 14:16:37 Europe/London] PHP Notice:  Undefined variable: pgLng in /home/omninetsi/public_html/development/parts/header.php on line 2
+[18-Oct-2017 14:16:37 Europe/London] PHP Notice:  Undefined variable: pgAuthor in /home/omninetsi/public_html/development/parts/header.php on line 11
+[18-Oct-2017 14:16:37 Europe/London] PHP Notice:  Undefined variable: pgKeywords in /home/omninetsi/public_html/development/parts/header.php on line 12
+[18-Oct-2017 14:16:37 Europe/London] PHP Notice:  Undefined variable: pgDesc in /home/omninetsi/public_html/development/parts/header.php on line 13
+[18-Oct-2017 14:16:37 Europe/London] PHP Notice:  Undefined variable: pgTitle in /home/omninetsi/public_html/development/parts/header.php on line 15
+[18-Oct-2017 09:16:46 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:17:00 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:18:34 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 09:19:00 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 14:19:11 Europe/London] PHP Notice:  Undefined variable: pgLng in /home/omninetsi/public_html/development/parts/header.php on line 2
+[18-Oct-2017 14:19:11 Europe/London] PHP Notice:  Undefined variable: pgAuthor in /home/omninetsi/public_html/development/parts/header.php on line 11
+[18-Oct-2017 14:19:11 Europe/London] PHP Notice:  Undefined variable: pgKeywords in /home/omninetsi/public_html/development/parts/header.php on line 12
+[18-Oct-2017 14:19:11 Europe/London] PHP Notice:  Undefined variable: pgDesc in /home/omninetsi/public_html/development/parts/header.php on line 13
+[18-Oct-2017 14:19:11 Europe/London] PHP Notice:  Undefined variable: pgTitle in /home/omninetsi/public_html/development/parts/header.php on line 15
+[18-Oct-2017 14:28:53 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:28:53 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:28:53 Europe/London] PHP Fatal error:  require(): Failed opening required 'layout/header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:28:53 Europe/London] PHP Notice:  Undefined variable: pgLng in /home/omninetsi/public_html/development/parts/header.php on line 2
+[18-Oct-2017 14:28:53 Europe/London] PHP Notice:  Undefined variable: pgAuthor in /home/omninetsi/public_html/development/parts/header.php on line 11
+[18-Oct-2017 14:28:53 Europe/London] PHP Notice:  Undefined variable: pgKeywords in /home/omninetsi/public_html/development/parts/header.php on line 12
+[18-Oct-2017 14:28:53 Europe/London] PHP Notice:  Undefined variable: pgDesc in /home/omninetsi/public_html/development/parts/header.php on line 13
+[18-Oct-2017 14:28:53 Europe/London] PHP Notice:  Undefined variable: pgTitle in /home/omninetsi/public_html/development/parts/header.php on line 15
+[18-Oct-2017 09:28:56 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
+[18-Oct-2017 14:28:59 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:28:59 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:28:59 Europe/London] PHP Fatal error:  require(): Failed opening required 'layout/header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:29:04 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:29:04 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:29:04 Europe/London] PHP Fatal error:  require(): Failed opening required 'layout/header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 09:29:46 America/New_York] PHP Notice:  Undefined variable: user in /home/omninetsi/public_html/development/reset.php on line 4
+[18-Oct-2017 09:29:46 America/New_York] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/omninetsi/public_html/development/reset.php on line 4
+[18-Oct-2017 09:29:48 America/New_York] PHP Notice:  Undefined variable: user in /home/omninetsi/public_html/development/reset.php on line 4
+[18-Oct-2017 09:29:48 America/New_York] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/omninetsi/public_html/development/reset.php on line 4
+[18-Oct-2017 14:30:03 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:30:03 Europe/London] PHP Warning:  require(layout/header.php): failed to open stream: No such file or directory in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 14:30:03 Europe/London] PHP Fatal error:  require(): Failed opening required 'layout/header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/omninetsi/public_html/development/reset.php on line 94
+[18-Oct-2017 09:30:38 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/omninetsi/public_html/development/parts/menu.php:27) in /home/omninetsi/public_html/development/includes/config.php on line 4
