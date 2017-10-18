@@ -10,9 +10,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="<?php echo $pgAuthor ?>">
     <meta name="keywords" content="Silveco, tisk, tiskarna, izdelava, tiskovine, oblikovanje, design, print, letaki, plakati, avto nalepke, graficno oblikovanje, priprava za tisk, offset, digitlni tisk, <?php echo $pgKeywords ?>">
-    <meta name="description" content=" <?php echo $pgDesc ?>Tiskarna Silveco vam nudi Digitalni Tisk, Offset Tisk, Grafično Oblikovanje, Personalizacijo in še več po ugodni ceni s hitro in kvalitetno storitvijo.">
+    <meta name="description" content=" <?php echo $pgDesc ?>">
     <meta name="google-site-verification" content="a3d32He9-lVPSysfr6bhC2tly68vGUzANYYL2mn_aSQ" />
-    <title><?php echo $pgTitle ?> - Silveco</title>
+    <title><?php echo $pgTitle ?></title>
 
     <?php include 'links.php' ;?>
 

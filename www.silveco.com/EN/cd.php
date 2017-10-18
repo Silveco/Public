@@ -3,7 +3,7 @@
 $pgLng="en-EN";
 $pgKeywords="Tiskarna, Silveco, izdelava CD, izdelava CD plošč, izdelava CDjev, izdelava DVD, izdelava DVD plošč, izdelava DVDjev, replikacija CD, replikacija CDjev, replokacija CD plošč, replikacija DVD, replikacija DVDjev, replikacija DVD plošč, CD & DVD, Cdji, DVDji,";
 $pgDesc="Tiskarna Silveco";
-$pgTitle="Tiskarna - Silveco Tiskarna";
+$pgTitle="CD & DVD replication - Silveco Tiskarna";
 $pgAuthor="Silveco Web Design Studio"
 
 ?>
