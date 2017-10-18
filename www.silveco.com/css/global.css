@@ -1211,11 +1211,7 @@ hr.empty {
     border-radius: 5px;
     border: 1px solid #444;
 }
-.homepop {
-    text-align: center;
-}
-.homepop h3 {
-    color: #ddd;
+.text-hold {
     margin-bottom: 20px;
     margin-top: 0;
     padding: 20px 0;
@@ -1224,10 +1220,19 @@ hr.empty {
     border-radius: 0 0 10px 10px;
     border-top: none;
 }
+.homepop {
+    text-align: center;
+}
+.homepop h3 {
+    color: rgba(21,171,283,1);
+    margin: 0;
+}
 .homepop p {
     color: #ddd;
     text-align: center;
-    margin: 15px 0;
+    margin: 10px 0 0 0;
+    padding: 0 10px;
+    font-weight: 100;
 }
 
 .homepop img {
@@ -1235,6 +1240,15 @@ hr.empty {
     border-radius: 10px 10px 0 0;
     border: 1px solid #555;
     border-bottom: none;
+}
+.homepop .btn-primary {
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 5px 35px;
+    box-shadow: 0px 0px 10px #111;
+}
+.modal-content {
+    border: 1px solid #444;
 }
 
 .bg-danger {
@@ -1260,6 +1274,21 @@ button.close.popbut {
     opacity: 1;
     border: none;
     margin-top: 6px;
+}
+
+.intro-header.g-design {
+    background: url(/img/g-design.png) #222 center center no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.intro-header.cddvd {
+    background: url(/img/cd.jpg) #222 center center no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.intro-header.tiska {
+        height: 400px;
 }
 /* language bar - translations */
 

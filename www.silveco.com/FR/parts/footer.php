@@ -68,7 +68,7 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
-                <p class="copyright text-muted small">Copyright &copy; Silveco 2017. All Rights Reserved - <?php include '../ver.php';?></p>
+                <p class="copyright text-muted small">Copyright &copy; Silveco 2017. All Rights Reserved  - <?php include '../ver.php';?></p>
                 <a id="scrollUp" class="to-top" href="#top-page">
                     <i class="fa fa-arrow-up" aria-hidden="true"></i>
                     <p>To top</p>

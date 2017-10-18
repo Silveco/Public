@@ -5,20 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/FB-Oktober.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/g-design.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EN/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/about-us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/cd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/navodila-za-tisk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/omninet.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/2CD-LD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/2CD-desna-lep.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/2CD-desna.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/2zareza.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/2zepka.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/2zepka6str.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/3CD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/CD-3-knjigica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/CD-3-sredina.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/CD-mali-knjigica-lep.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/CD-mali-knjigica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/CD-mali.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/CD-sredina.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/ekopak/DVD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/links.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/print-menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/why-silveco.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/zepki/zepek-3CD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/zepki/zepek-zavihek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/parts/zepki/zepek.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/reklamacije.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/studio-orca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FR/tiskarna.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ver.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webServers.xml" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/about-us.php" afterPath="$PROJECT_DIR$/EN/about-us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/index.php" afterPath="$PROJECT_DIR$/EN/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/omninet.php" afterPath="$PROJECT_DIR$/EN/omninet.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/parts/footer.php" afterPath="$PROJECT_DIR$/EN/parts/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/parts/menu.php" afterPath="$PROJECT_DIR$/EN/parts/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/reklamacije.php" afterPath="$PROJECT_DIR$/EN/reklamacije.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/studio-orca.php" afterPath="$PROJECT_DIR$/EN/studio-orca.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/tiskarna.php" afterPath="$PROJECT_DIR$/EN/tiskarna.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/akcije/september2017.php" afterPath="$PROJECT_DIR$/akcije/september2017.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/config.php" afterPath="$PROJECT_DIR$/includes/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cd.php" afterPath="$PROJECT_DIR$/cd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/footer.php" afterPath="$PROJECT_DIR$/parts/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/links.php" afterPath="$PROJECT_DIR$/parts/links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/menu.php" afterPath="$PROJECT_DIR$/parts/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studio-orca.php" afterPath="$PROJECT_DIR$/studio-orca.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiskarna.php" afterPath="$PROJECT_DIR$/tiskarna.php" />
     </list>
     <ignored path="../app.silveco.si/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,81 +79,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about-us.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/about-us.php">
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FR/parts/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="1445">
+              <caret line="88" column="44" lean-forward="false" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tiskarna.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/tiskarna.php">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="studio-orca.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/studio-orca.php">
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/parts/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+            <state relative-caret-position="459">
+              <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reklamacije.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/reklamacije.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/parts/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="153">
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="omninet.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/omninet.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FR/parts/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+            <state relative-caret-position="153">
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/index.php">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parts/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EN/contact.php">
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/global.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3443">
+              <caret line="1289" column="19" lean-forward="false" selection-start-line="1289" selection-start-column="19" selection-end-line="1289" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/includes/config.php">
+      <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parts/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="799">
+              <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FR/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,7 +186,11 @@
       <find>tiff</find>
       <find>we can us</find>
       <find>pass</find>
+      <find>Download</find>
     </findStrings>
+    <replaceStrings>
+      <replace>Télécharger</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -136,17 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EN/parts/why-silveco.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-mali.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-mali-knjigica-lep.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/2zepka.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/2zareza.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/DVD.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-sredina.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-3-knjigica.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/CD-3-sredina.php" />
-        <option value="$PROJECT_DIR$/EN/parts/ekopak/2CD-desna.php" />
         <option value="$PROJECT_DIR$/EN/parts/ekopak/2CD-LD.php" />
         <option value="$PROJECT_DIR$/EN/parts/ekopak/2CD-desna-lep.php" />
         <option value="$PROJECT_DIR$/EN/parts/ekopak/3CD.php" />
@@ -155,19 +206,14 @@
         <option value="$PROJECT_DIR$/EN/parts/zepki/zepek-zavihek.php" />
         <option value="$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php" />
         <option value="$PROJECT_DIR$/parts/why-silveco.php" />
-        <option value="$PROJECT_DIR$/cd.php" />
         <option value="$PROJECT_DIR$/EN/parts/header.php" />
         <option value="$PROJECT_DIR$/EN/cd.php" />
         <option value="$PROJECT_DIR$/EN/contact.php" />
         <option value="$PROJECT_DIR$/EN/navodila-za-tisk.php" />
-        <option value="$PROJECT_DIR$/parts/menu.php" />
         <option value="$PROJECT_DIR$/index-login.php" />
         <option value="$PROJECT_DIR$/login-old.php" />
         <option value="$PROJECT_DIR$/layout/header.php" />
         <option value="$PROJECT_DIR$/logout.php" />
-        <option value="$PROJECT_DIR$/parts/links.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/memberpage.php" />
         <option value="$PROJECT_DIR$/activate.php" />
         <option value="$PROJECT_DIR$/login.php" />
@@ -176,9 +222,6 @@
         <option value="$PROJECT_DIR$/reset.php" />
         <option value="$PROJECT_DIR$/resetPassword.php" />
         <option value="$PROJECT_DIR$/akcije/september2017.php" />
-        <option value="$PROJECT_DIR$/EN/parts/menu.php" />
-        <option value="$PROJECT_DIR$/EN/parts/footer.php" />
-        <option value="$PROJECT_DIR$/parts/footer.php" />
         <option value="$PROJECT_DIR$/EN/studio-orca.php" />
         <option value="$PROJECT_DIR$/EN/tiskarna.php" />
         <option value="$PROJECT_DIR$/EN/reklamacije.php" />
@@ -186,6 +229,26 @@
         <option value="$PROJECT_DIR$/EN/omninet.php" />
         <option value="$PROJECT_DIR$/EN/index.php" />
         <option value="$PROJECT_DIR$/includes/config.php" />
+        <option value="$PROJECT_DIR$/FR/cd.php" />
+        <option value="$PROJECT_DIR$/FR/omninet.php" />
+        <option value="$PROJECT_DIR$/FR/about-us.php" />
+        <option value="$PROJECT_DIR$/FR/tiskarna.php" />
+        <option value="$PROJECT_DIR$/FR/contact.php" />
+        <option value="$PROJECT_DIR$/FR/parts/why-silveco.php" />
+        <option value="$PROJECT_DIR$/parts/links.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/studio-orca.php" />
+        <option value="$PROJECT_DIR$/ver.php" />
+        <option value="$PROJECT_DIR$/cd.php" />
+        <option value="$PROJECT_DIR$/tiskarna.php" />
+        <option value="$PROJECT_DIR$/css/global.css" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/parts/menu.php" />
+        <option value="$PROJECT_DIR$/FR/parts/menu.php" />
+        <option value="$PROJECT_DIR$/EN/parts/footer.php" />
+        <option value="$PROJECT_DIR$/FR/parts/footer.php" />
+        <option value="$PROJECT_DIR$/parts/footer.php" />
+        <option value="$PROJECT_DIR$/EN/parts/menu.php" />
       </list>
     </option>
   </component>
@@ -220,7 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,13 +299,30 @@
             <path>
               <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="EN" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="FR" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="FR" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,9 +335,13 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Development\Public\www.silveco.com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Development\Public\www.silveco.com\EN" />
+      <recent name="D:\Development\Public\www.silveco.com\FR" />
+      <recent name="D:\Development\Public\www.silveco.com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,7 +387,9 @@
       <workItem from="1507645163687" duration="1537000" />
       <workItem from="1507789324832" duration="901000" />
       <workItem from="1507882862560" duration="3263000" />
-      <workItem from="1508225189452" duration="50000" />
+      <workItem from="1508225189452" duration="8304000" />
+      <workItem from="1508242705442" duration="2427000" />
+      <workItem from="1508307995824" duration="6592000" />
     </task>
     <task id="LOCAL-00001" summary="test 234">
       <created>1504096744002</created>
@@ -438,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507633981695</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Razno">
+      <created>1508225251252</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1508225251252</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54470000" />
+    <option name="totallyTimeSpent" value="71743000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -457,7 +550,7 @@
     <frame x="54" y="-8" width="1874" height="1216" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15380375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15711136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.49701494" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.50496143" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -521,7 +614,8 @@
     <MESSAGE value="Homepage popup" />
     <MESSAGE value="LOGIN PAGE" />
     <MESSAGE value="LOGIN PAGE - Working" />
-    <option name="LAST_COMMIT_MESSAGE" value="LOGIN PAGE - Working" />
+    <MESSAGE value="Razno" />
+    <option name="LAST_COMMIT_MESSAGE" value="Razno" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -530,130 +624,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EN/parts/ekopak/2zepka6str.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek-zavihek.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="54" column="88" lean-forward="false" selection-start-line="54" selection-start-column="88" selection-end-line="54" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="60" column="39" lean-forward="true" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cd.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="153" column="64" lean-forward="false" selection-start-line="153" selection-start-column="60" selection-end-line="153" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/why-silveco.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="62" column="749" lean-forward="false" selection-start-line="62" selection-start-column="749" selection-end-line="62" selection-end-column="749" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/print-menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/why-silveco.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="102" lean-forward="false" selection-start-line="38" selection-start-column="102" selection-end-line="38" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/FB-September-Akcija.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/_PA68/loginregister-master/layout/header.php" />
-    <entry file="file://$PROJECT_DIR$/parts/links.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1427">
-          <caret line="1262" column="1" lean-forward="true" selection-start-line="1262" selection-start-column="1" selection-end-line="1262" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layoutBCKP/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/memberpage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="57" lean-forward="false" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="40" lean-forward="false" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <marker date="1507621538045" expanded="true" signature="384:465" ph="UPDATE membe... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/memberpage-old.php" />
     <entry file="file://$PROJECT_DIR$/login-old.php" />
     <entry file="file://$PROJECT_DIR$/style/main.css" />
@@ -694,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1446083296000" expanded="true" signature="255:347" ph="SELECT passw... members" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,14 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studio-orca.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EN/parts/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -758,40 +717,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tiskarna.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/parts/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="102" lean-forward="false" selection-start-line="38" selection-start-column="102" selection-end-line="38" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EN/navodila-za-tisk.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,70 +728,242 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/about-us.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="0">
           <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/tiskarna.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="0">
           <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/studio-orca.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="0">
           <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/reklamacije.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="0">
           <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/omninet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="0">
           <caret line="4" column="84" lean-forward="false" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="0">
           <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="-7">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="-7">
           <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/parts/zepki/zepek.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/cd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="794" column="59" lean-forward="false" selection-start-line="794" selection-start-column="59" selection-end-line="794" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/omninet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="91" lean-forward="false" selection-start-line="29" selection-start-column="91" selection-end-line="29" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/about-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="191" lean-forward="false" selection-start-line="116" selection-start-column="191" selection-end-line="116" selection-end-column="191" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/tiskarna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="335" lean-forward="false" selection-start-line="142" selection-start-column="335" selection-end-line="142" selection-end-column="335" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="32" lean-forward="false" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/parts/why-silveco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="191" lean-forward="false" selection-start-line="53" selection-start-column="191" selection-end-line="53" selection-end-column="191" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/links.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio-orca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiskarna.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3443">
+          <caret line="1289" column="19" lean-forward="false" selection-start-line="1289" selection-start-column="19" selection-end-line="1289" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="34" lean-forward="false" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/parts/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FR/parts/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="88" column="44" lean-forward="false" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
           <folding />
         </state>
       </provider>

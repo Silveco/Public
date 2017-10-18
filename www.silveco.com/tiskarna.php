@@ -17,7 +17,7 @@ $pgAuthor="Silveco Web Design Studio"
 
 <!-- ----------------------- START PAGE HTML HERE ----------------------- -->
 
-    <div class="intro-header"></div>
+    <div class="intro-header tiska"></div>
 
     <div class="content-section-a">
         <div class="container">

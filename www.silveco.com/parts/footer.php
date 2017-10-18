@@ -6,10 +6,10 @@
                 <img src="/img/silvecoeconoga2.png" />
                 <hr>
                 <p class="diferent">Akcijska ponudba:</p>
-                <a href="/akcije/september2017.php">September 2017</a><br><br>
+                <a href="/akcije/september2017">September 2017</a><br><br>
                 <p class="diferent">Dodatne povezave:</p>
-                <a href="/reklamacije.php">Pogoji poslovanja</a><br>
-                <a href="/navodila-za-tisk.php">Navodila za tisk</a><br>
+                <a href="/reklamacije">Pogoji poslovanja</a><br>
+                <a href="/navodila-za-tisk">Navodila za tisk</a><br>
 
             </div>
             <div class="col-sm-2 footer-notes">
@@ -83,7 +83,8 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
-                <p class="copyright text-muted small">Copyright &copy; Silveco 2017. All Rights Reserved</p>
+                <p class="copyright text-muted small">Copyright &copy; Silveco 2017. All Rights Reserved  - <?php include 'ver.php';?></p>
+
                 <a id="scrollUp" class="to-top" href="#top-page">
                     <i class="fa fa-arrow-up" aria-hidden="true"></i>
                     <p>Na vrh strani</p>

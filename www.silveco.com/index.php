@@ -12,6 +12,10 @@ $pgAuthor="Silveco Web Design Studio"
 <?php include 'parts/header.php';?>
 <?php include 'parts/menu.php';?>
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRGKSC5"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript)
 
 <!-- ----------------------- START PAGE HTML HERE ----------------------- -->
 
@@ -25,13 +29,15 @@ $pgAuthor="Silveco Web Design Studio"
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close popbut" data-dismiss="modal" aria-hidden="true">Zapri</button>
-                <h4 class="modal-title">Akcija SEPTEMBER 2017</h4>
+                <h4 class="modal-title">Nagradna Igra OKTOBER 2017</h4>
             </div>
             <div class="modal-body homepop">
-                <img src="/img/FB-September-Akcija.jpg" />
-                <h3>Preverite našo akcijsko ponudbo meseca SEPTEMBRA</h3>
-
-                <a href="/akcije/september2017.php" class="btn btn-primary home" role="button">Preberi Več</a>
+                <img src="/img/FB-Oktober.jpg" />
+                <div class="text-hold">
+                    <h3>Nagradna igra v sodelovanju z Nika Records</h3>
+                    <p>Preverite nagradno igro tiskarne Silveco in založbe NIKA Records, kjer lahko zadanete zgoščenko skupine Siddharta (infra).</p>
+                </div>
+                <a href="https://www.facebook.com/silvecoprintinghouse/photos/a.319177211551767.1073741825.225105240958965/1086407351495412/?type=3&theater" target="_blank" class="btn btn-primary home" role="button">Preveri</a>
 
             </div>
         </div>

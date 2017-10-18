@@ -10,6 +10,7 @@
                             <span class="caret"></span></button>
                         <ul class="dropdown-menu">
                             <li><a href="/EN/" class="lang-txt"><img src="/img/gb.svg" />English</a></li>
+                            <li><a href="/FR/" class="lang-txt"><img src="/img/fr.svg" />Français</a></li>
                         </ul>
                     </div>
                 </div>
@@ -44,14 +45,14 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="/index.php">
+                        <a href="/">
                             <p class="link-heading">Domov</p>
                             <p class="link-sub-heading">na naslovno stran</p>
                         </a>
 
                     </li>
                     <li>
-                        <a href="/about-us.php">
+                        <a href="/about-us">
                             <p class="link-heading">O podjetju</p>
                             <p class="link-sub-heading">nekaj podatkov</p>
                         </a>
@@ -63,10 +64,10 @@
 
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a href="/tiskarna.php">Tiskarna SILVECO</a></li>
-                            <li><a href="/studio-orca.php">Grafični Studio ORCA</a></li>
-                            <li><a href="/cd.php">Replikacija CD & DVD</a></li>
-                            <li><a href="/omninet.php">Spletni Studio OMNINET</a></li>
+                            <li><a href="/tiskarna">Tiskarna SILVECO</a></li>
+                            <li><a href="/studio-orca">Grafični Studio ORCA</a></li>
+                            <li><a href="/cd">Replikacija CD & DVD</a></li>
+                            <li><a href="/omninet">Spletni Studio OMNINET</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -85,7 +86,7 @@
 
 
                     <li>
-                        <a href="/contact.php">
+                        <a href="/contact">
                             <p class="link-heading">Kontakt</p>
                             <p class="link-sub-heading">stopite v stik z nami</p>
                         </a>
