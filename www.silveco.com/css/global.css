@@ -1330,3 +1330,20 @@ a.lgout {
     float: right;
     margin-left: 5px;
 }
+#mc_embed_signup {
+    background: none !important;
+
+}
+#mc_embed_signup label {
+    color: rgba(21,171,283,1);
+    font-weight: 100!important;
+    font-size: 30px!important;
+    font-family: 'Raleway', sans-serif;
+}
+input#mc-embedded-subscribe {
+    background: rgba(21,171,283,1)!important;
+}
+
+a#cookiescript_link {
+    display: none!important;
+}

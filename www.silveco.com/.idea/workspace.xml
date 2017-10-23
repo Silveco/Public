@@ -4,27 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/EN/parts/why-silveco.php" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="HTTPS&#10;Slikovna optimizacija">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/back-tiskarna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/g-design.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.well-known/pki-validation/4230D0D35D52F402F0BBEC456F496D6A.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/g-design.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/offset-banner-I.jpg" afterPath="$PROJECT_DIR$/img/offset-banner-I.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/omninet-banner.jpg" afterPath="$PROJECT_DIR$/img/omninet-banner.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+    <list default="true" id="9f297730-e30d-4510-847c-4c82d0ebef99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/piskotki.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/about-us.php" afterPath="$PROJECT_DIR$/EN/about-us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/parts/menu.php" afterPath="$PROJECT_DIR$/EN/parts/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EN/parts/why-silveco.php" afterPath="$PROJECT_DIR$/EN/parts/why-silveco.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/about-us.php" afterPath="$PROJECT_DIR$/FR/about-us.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FR/parts/why-silveco.php" afterPath="$PROJECT_DIR$/FR/parts/why-silveco.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us.php" afterPath="$PROJECT_DIR$/about-us.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/config.php" afterPath="$PROJECT_DIR$/includes/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/links.php" afterPath="$PROJECT_DIR$/parts/links.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/menu.php" afterPath="$PROJECT_DIR$/parts/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/why-silveco.php" afterPath="$PROJECT_DIR$/parts/why-silveco.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/footer.php" afterPath="$PROJECT_DIR$/parts/footer.php" />
     </list>
     <ignored path="../app.silveco.si/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -67,11 +53,53 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="154" column="20" lean-forward="false" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parts/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="piskotki.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/piskotki.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;2a1e6286-bf75-4bb7-971e-3e9802f35c2a&gt;/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="1282" column="0" lean-forward="true" selection-start-line="1282" selection-start-column="0" selection-end-line="1282" selection-end-column="0" />
+            <state relative-caret-position="493">
+              <caret line="1348" column="1" lean-forward="false" selection-start-line="1348" selection-start-column="1" selection-end-line="1348" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -124,9 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/EN/parts/zepki/zepek-3CD.php" />
-        <option value="$PROJECT_DIR$/EN/contact.php" />
-        <option value="$PROJECT_DIR$/EN/navodila-za-tisk.php" />
         <option value="$PROJECT_DIR$/index-login.php" />
         <option value="$PROJECT_DIR$/login-old.php" />
         <option value="$PROJECT_DIR$/layout/header.php" />
@@ -144,14 +169,12 @@
         <option value="$PROJECT_DIR$/FR/omninet.php" />
         <option value="$PROJECT_DIR$/FR/tiskarna.php" />
         <option value="$PROJECT_DIR$/FR/contact.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/studio-orca.php" />
         <option value="$PROJECT_DIR$/ver.php" />
         <option value="$PROJECT_DIR$/cd.php" />
         <option value="$PROJECT_DIR$/tiskarna.php" />
         <option value="$PROJECT_DIR$/EN/parts/footer.php" />
         <option value="$PROJECT_DIR$/FR/parts/footer.php" />
-        <option value="$PROJECT_DIR$/parts/footer.php" />
         <option value="$PROJECT_DIR$/EN/cd.php" />
         <option value="$PROJECT_DIR$/parts/header.php" />
         <option value="$PROJECT_DIR$/EN/parts/header.php" />
@@ -166,7 +189,6 @@
         <option value="$PROJECT_DIR$/parts/menu.php" />
         <option value="$PROJECT_DIR$/EN/parts/menu.php" />
         <option value="$PROJECT_DIR$/parts/links.php" />
-        <option value="$PROJECT_DIR$/css/global.css" />
         <option value="$PROJECT_DIR$/about-us.php" />
         <option value="$PROJECT_DIR$/parts/why-silveco.php" />
         <option value="$PROJECT_DIR$/EN/parts/why-silveco.php" />
@@ -175,6 +197,12 @@
         <option value="$PROJECT_DIR$/FR/parts/why-silveco.php" />
         <option value="$PROJECT_DIR$/includes/config.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="&lt;50ede7e4-cace-488f-ae08-cd382abc3d47&gt;/.htaccess" />
+        <option value="&lt;2a1e6286-bf75-4bb7-971e-3e9802f35c2a&gt;/.htaccess" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/global.css" />
+        <option value="$PROJECT_DIR$/parts/footer.php" />
+        <option value="$PROJECT_DIR$/piskotki.php" />
       </list>
     </option>
   </component>
@@ -216,6 +244,11 @@
               <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="www.silveco.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.silveco.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="parts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -236,9 +269,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Public\www.silveco.com" />
       <recent name="D:\Development\Public\www.silveco.com\EN" />
       <recent name="D:\Development\Public\www.silveco.com\FR" />
-      <recent name="D:\Development\Public\www.silveco.com" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Development\Public\www.silveco.com\.well-known\pki-validation" />
@@ -292,7 +325,7 @@
       <workItem from="1508242705442" duration="2427000" />
       <workItem from="1508307995824" duration="20131000" />
       <workItem from="1508504253484" duration="76000" />
-      <workItem from="1508740647262" duration="5191000" />
+      <workItem from="1508740647262" duration="7722000" />
     </task>
     <task id="LOCAL-00001" summary="test 234">
       <created>1504096744002</created>
@@ -469,11 +502,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508333953657</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="HTTPS&#10;Slikovna optimizacija">
+      <created>1508748274699</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1508748274699</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90549000" />
+    <option name="totallyTimeSpent" value="93080000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -556,7 +596,8 @@
     <MESSAGE value="Popravki in verzije" />
     <MESSAGE value="404 + SEO" />
     <MESSAGE value="Login user ..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Login user ..." />
+    <MESSAGE value="HTTPS&#10;Slikovna optimizacija" />
+    <option name="LAST_COMMIT_MESSAGE" value="HTTPS&#10;Slikovna optimizacija" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -565,7 +606,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/index-login.php" />
     <entry file="file://$PROJECT_DIR$/layoutBCKP/header.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -672,14 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EN/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -699,14 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parts/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -853,14 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="1282" column="0" lean-forward="true" selection-start-line="1282" selection-start-column="0" selection-end-line="1282" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tiskarna.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2533">
@@ -917,6 +933,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/includes/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -925,10 +949,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="459">
+          <caret line="154" column="20" lean-forward="false" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="1348" column="1" lean-forward="false" selection-start-line="1348" selection-start-column="1" selection-end-line="1348" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="98" column="28" lean-forward="false" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/piskotki.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
           <folding />
         </state>
       </provider>

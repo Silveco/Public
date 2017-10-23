@@ -137,7 +137,34 @@ $pgAuthor="Silveco Web Design Studio"
 
 
 	<a  name="contact"></a>
+<div class="content-section-a">
 
+    <!-- Begin MailChimp Signup Form -->
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #mc_embed_signup{clear:left;width:100%;}
+        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+    <div id="mc_embed_signup">
+        <form action="https://silveco.us17.list-manage.com/subscribe/post?u=097bf0a63d4010b7e50e06990&amp;id=1d2db81057" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+                <label for="mce-EMAIL">Prijava na novice</label>
+                <p class="lead newsletter">
+                    Prijavite se na naše novice in bodite obveščeni o naših akcijskih ponudbah in nagradnih igrah, ki prinašajo bogate in lepe nagrade.
+                </p>
+                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email naslov" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_097bf0a63d4010b7e50e06990_1d2db81057" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Prijava" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            </div>
+        </form>
+    </div>
+
+
+
+    <!--End mc_embed_signup-->
+</div>
 
 
 <!-- ----------------------- END PAGE HTML HERE ----------------------- -->

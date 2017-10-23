@@ -93,6 +93,10 @@
             </div>
         </div>
     </div>
+
+    <!--Start Cookie Script-->
+    <script type="text/javascript" charset="UTF-8" src="http://chs03.cookie-script.com/s/b66ef74561322ffb2965c9ab947e822e.js"></script>
+    <!--End Cookie Script-->
 </footer>
 
 
