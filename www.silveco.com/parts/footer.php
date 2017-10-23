@@ -95,7 +95,21 @@
     </div>
 
     <!--Start Cookie Script-->
-    <script type="text/javascript" charset="UTF-8" src="http://chs03.cookie-script.com/s/b66ef74561322ffb2965c9ab947e822e.js"></script>
+    <script type="text/javascript" id="cookieinfo"
+            src="//cookieinfoscript.com/js/cookieinfo.min.js"
+            data-bg="#333"
+            data-fg="#FFFFFF"
+            data-link="#c5ff08"
+            data-divlinkbg="#c5ff08"
+            data-font-weight="100"
+            data-cookie="CookieInfoScript"
+            data-linkmsg="Preberi več"
+            data-moreinfo="/piskotki.php"
+            data-text-align="center"
+            data-close-text="Zapri!"
+            data-message="Za boljšo uporabniško izkušnjo to spletno mesto uporablja piškotke!">
+
+    </script>
     <!--End Cookie Script-->
 </footer>
 
