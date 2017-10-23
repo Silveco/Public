@@ -4,7 +4,8 @@
 <!-- Custom CSS -->
 <link href="/css/global.css" rel="stylesheet">
 
-
+<!-- Facebook IMG -->
+<link rel="image_src" href="/img/offset-banner-I.jpg" / >
 
 <!-- Animate CSS -->
 <link href="/css/animate.css" rel="stylesheet">

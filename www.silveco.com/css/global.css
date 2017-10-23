@@ -1282,7 +1282,7 @@ button.close.popbut {
 }
 
 .intro-header.g-design {
-    background: url(/img/g-design.png) #222 center center no-repeat;
+    background: url(/img/g-design.jpg) #222 center center no-repeat;
     background-size: cover;
     height: 400px;
 }
@@ -1293,7 +1293,8 @@ button.close.popbut {
     height: 400px;
 }
 .intro-header.tiska {
-        height: 400px;
+    height: 400px;
+    background: url(/img/back-tiskarna.jpg) #222 center center no-repeat;
 }
 /* language bar - translations */
 

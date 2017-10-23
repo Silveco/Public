@@ -10,7 +10,7 @@
                             <span class="caret"></span></button>
                         <ul class="dropdown-menu">
                             <li><a href="/" class="lang-txt"><img src="/img/si.svg" />Slovenščina</a></li>
-                            <li><a href="/FR/" class="lang-txt"><img src="/img/fr.svg" />Français</a></li>
+<!--                            <li><a href="/FR/" class="lang-txt"><img src="/img/fr.svg" />Français</a></li>-->
                         </ul>
                     </div>
                 </div>

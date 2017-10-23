@@ -10,7 +10,7 @@
                             <span class="caret"></span></button>
                         <ul class="dropdown-menu">
                             <li><a href="/EN/" class="lang-txt"><img src="/img/gb.svg" />English</a></li>
-                            <li><a href="/FR/" class="lang-txt"><img src="/img/fr.svg" />Français</a></li>
+<!--                            <li><a href="/FR/" class="lang-txt"><img src="/img/fr.svg" />Français</a></li>-->
                         </ul>
                     </div>
                 </div>

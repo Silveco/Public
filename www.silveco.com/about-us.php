@@ -34,11 +34,8 @@ $pgAuthor="Silveco Web Design Studio"
                             Glavni cilji podjetja SILVECO so zagotavljanje kvalitete izdelkov in storitev, hitra odzivnost, nizke cene in dostopnost našim kupcem.
                         </p>
                         <hr>
-                        <h2>Naša Ponudba</h2>
-                        <p class="lead">
-                            V naši ponudbi so katalogi, brošure, knjige, navodila za uporabo, letaki, vstopnice, plakati, transparenti, oglasne table, vizitke, poslovni obrazci, revije, zloženke, boni, dnevniki, dopisi, kuverte, nalepke iz več materialov, mape, rokovniki, ovitki za CD-je, koledarji, notesniki, označevalne table, panoji, zemljevidi, kaširanje različnih materialov (kapa, forex, dibond, valoviti karton itn.), papirne vrečke, tisk na ceradno platno, polepitev vozil, in še bi lahko naštevali.
-                        </p>
-                        <hr>
+
+
                         <h2>Poslanstvo</h2>
                         <p class="lead">
                             Podjetje SILVECO je kupcem in okolju naravnano podjetje, ki na področju tiska in grafičnega oblikovanja ustvarja kakovostne izdelke. Oblikujemo in sodelujemo pri najzahtevnejših projektih, ki so povezani s sodobnimi trženjskimi prijemi. Storitve podjetja dosegajo visoke okoljske standarde t. i. ekoloških tiskarn, hkrati pa kupcem prihranijo čas in denar.
@@ -62,70 +59,7 @@ $pgAuthor="Silveco Web Design Studio"
     <!-- Page Content -->
 
 	<a  name="services"></a>
-<div class="content-section-b">
-    <div class="container">
-        <h2>Zakaj smo najboljša izbira?</h2>
-        <div class="col-sm-3 home-stuff">
-            <div class="holder">
-                <div class="icon-h">
-                    <i class="fa fa-check lefty" aria-hidden="true"></i>
-                    <h3>Kvaliteta</h3>
-                </div>
-
-                <hr>
-                <p class="lead">
-                    Pri svojem delu uporabljamo inovativne digitalne in ofset tiskarske stroje, velikih in majhnih formatov, ki zagotavljajo kvalitetne tiskovine.
-                </p>
-            </div>
-        </div>
-        <div class="col-sm-3 home-stuff">
-            <div class="holder">
-                <div class="icon-h">
-                    <i class="fa fa-clock-o lefty" aria-hidden="true"></i>
-                    <h3>Hitrost</h3>
-                </div>
-
-                <hr>
-                <p class="lead">
-                    Ste se nekaj spomnili zadnji trenutek? Brez težav lahko takšno naročilo zaupate nam. Opravili ga bomo v najkrajšem možnem času.
-                </p>
-            </div>
-        </div>
-        <div class="col-sm-3 home-stuff">
-            <div class="holder">
-                <div class="icon-h">
-                    <i class="fa fa-eur lefty" aria-hidden="true"></i>
-                    <h3>Nizka cena</h3>
-                </div>
-
-                <hr>
-                <p class="lead">
-                    Glede na različne tehnike tiska, ki jih ponujamo, vam zagotavljamo tiskovine po nizkih cenah. Kombinacija digitalnega in ofset tiska je cenovno zelo ugodna, glede na naklado, ki jo želite.
-                </p>
-
-            </div>
-        </div>
-        <div class="col-sm-3 home-stuff">
-            <div class="holder">
-                <div class="icon-h">
-                    <i class="fa fa-leaf lefty" aria-hidden="true"></i>
-                    <h3>Prijazni do okolja</h3>
-                </div>
-
-                <hr>
-
-                <p class="lead">
-                    Podjetje SILVECO predstavlja, s proizvodnjo in delovnimi procesi ter uporabo čistejših tehnik tiska, prijaznejši odnos do okolja.
-                </p>
-            </div>
-        </div>
-
-
-    </div>
-
-
-
-</div>
+<?php include 'parts/why-silveco.php';?>
 
 
 

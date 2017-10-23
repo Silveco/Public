@@ -8,9 +8,9 @@ date_default_timezone_set('Europe/London');
 
 //database credentials
 define('DBHOST','localhost');
-define('DBUSER','xxx');
-define('DBPASS','xxx');
-define('DBNAME','xxx');
+define('DBUSER','silveco_users');
+define('DBPASS','UHGMUTz90aRd');
+define('DBNAME','silveco_users');
 
 //application address
 define('DIR','http://dev.omninet.si/');

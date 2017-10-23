@@ -59,7 +59,9 @@
 
     </div>
     <div class="container">
-        <p class="lead">
+        <h2>Our offer</h2>
+        <p class="lead smaller">
+
             Our main goals in the company SILVECO are ensuring high quality of our products and services, quick responsiveness, low prices and availability to our clients. Our offer consists of catalogues, brochures, books, instructions, flyers, tickets, posters, banners, advertisement signs, business cards, business forms, magazines, leaflets, coupons, journals, memos, envelopes, stickers from various materials, folders, schedule planners, calendars, notebooks, signs, advertising boards, maps, paper coating with different materials (kapa, Forex, Dibond, wavy cardboard …), paper bags, printing on tarpaulin, plastering of vehicles, and much more. We also replicate CDs and DVDs along side with all of the packaging such as CD and DVD inlays and eco packs.
         </p>
     </div>
